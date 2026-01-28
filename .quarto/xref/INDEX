@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "603c0991"
+  },
+  "about.qmd": {
+    "about.html": "da088349"
+  },
+  "home_schedule.qmd": {
+    "home_schedule.html": "55029da9"
+  },
+  "tutorials.qmd": {
+    "tutorials.html": "14b594da"
+  },
+  "tutorial-1.qmd": {
+    "tutorial-1.html": "f77f6763"
+  },
+  "tutorial-2.qmd": {
+    "tutorial-2.html": "53f34e41"
+  },
+  "about-es.qmd": {
+    "about-es.html": "a49da2ba"
+  },
+  "publications.qmd": {
+    "publications.html": "95d8ef39"
+  }
+}

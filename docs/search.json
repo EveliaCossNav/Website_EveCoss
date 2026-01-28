@@ -1,0 +1,77 @@
+[
+  {
+    "objectID": "tutorial-2.html",
+    "href": "tutorial-2.html",
+    "title": "tutorial-2",
+    "section": "",
+    "text": "Introducción a R\n\n\n\n Back to top",
+    "crumbs": [
+      "Tutorials",
+      "tutorial-2"
+    ]
+  },
+  {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "tutorials",
+    "section": "",
+    "text": "Introducción a R\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Tutorials",
+      "tutorials"
+    ]
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "About me  Google Scholar\n2025 | Scientific Communication | Comunidades bioinformáticas sin fronteras | Biotecnología en Movimiento, Año 10. Número 40, cap 6 (31 marzo 2025) | Evelia Lorena Coss-Navarrete, Erika Viridiana Cruz Bonilla y Nelly Sélem Mojica | Link: https://biotecmov.ibt.unam.mx/numeros/40/6.html\n2024 | Scientific Abstracts |AB1113 ALLELE SPECIFIC GENE EXPRESSION DURING TOLERANCE INDUCTION ON DENDRITIC CELLS FROM MEXICAN WOMEN WITH SYSTEMIC LUPUS ERYTHEMATOSUS | A. L. Hernández-Ledesma, S. Salazar-Magaña, E. L. Coss-Navarrete, K. J. Nuñez-Reza, L. Tinajero Nieto, A. Peña-Ayala, E. Torres-Valdez, G. Felix Rodríguez, G. Frontana-Vázquez, F. Rosetti, S. L. Fernández-Valverde, M. Gutierrez Arcelus, D. Alpizar-Rodriguez, A. Medina-Rivera | https://ard.bmj.com/content/83/Suppl_1/1887\n2023 | Scientific Communication | Los Neutrofilos, chile del que pica o chile del que no pica? | El linfocito - Number 3 | Karr de Leon S, Coss-Navarrete EL, Brunck ME | Link: https://sociedadmexicanadeinmunologia.org/revista-edicion-3/\n2022 | Journal Article | Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana | Nature Scientific Reports | Corona-Gomez, J.A., Coss-Navarrete, E.L., et al. DOI: https://doi.org/10.1038/s41598-022-18254-0 | PMID: 35982083\n2022 | Educational | Plants & Python: A series of lessons in coding, plant biology, computation, and bioinformatics | The Plant Cell, Volume 34, Issue 7, July 2022, Page e1 | VanBuren R , Rougon-Cardoso A, Amezquita EJ, Coss-Navarrete EL, Espinosa-Jaime A, Gonzalez-Iturbe OA, Luckie-Duque AC, Mendoza-Galindo E, Pardo J, Rodriguez-Guerrero G, Rosiles-Loeza PY, Vasquez-Cruz M, Fernandez-Valverde SL, Hernandez-Hernandez T, Palande S, and Chitwood. DH. | DOI: https://doi.org/10.1093/plcell/koac187\n2020 | Book Chapter | Chapter 6 - Induction of plant resistance to biotic stress by priming with β-aminobutyric acid (BABA) and its effect on nitrogen-fixing nodule development | Evelia Lorena Coss-Navarrete, Armando Díaz-Valle, Raúl Alvarez-Venegas | DOI: https://doi.org/10.1016/B978-0-12-817892-8.00006-4\n2018 | Journal Article | Down-regulation of PvTRX1h increases nodule number and affects auxin, starch, and metabolic fingerprints in the common bean (Phaseolus vulgaris L.) | Plant Science | Barraza A, Coss-Navarrete EL, Vizuet-de-Rueda JC, Martinez-Aguilar K, Hernandez-Chavez JL, Ordaz-Ortiz JJ, Winkler R, Tiessen A, Alvarez-Venegas R. D | DOI: https://doi.org/10.1038/s41598-022-18254-0 | PMID: 30080634\n2017 | Journal Article | Partial characterization of the proteolytic properties of an enzymatic extract from “Aguama” Bromelia pinguin L. fruit grown in Mexico | Applied Biochemistry and Biotechnology | Jesús Martín Moreno-Hernández, Xitlalli Desideria Hernández-Mancillas, Evelia Lorena Coss Navarrete, Miguel Ángel Mazorra-Manzano, Idalia Osuna-Ruiz, Víctor Alfonso Rodríguez-Tirado, Jesús Aarón Salazar-Leyva | DOI: 10.1007/s12010-016-2319-x | PMID: 27830465\n2017 | Journal Article | CARACTERIZACION PARCIAL DE LA ACTIVIDAD COAGULANTE Y CASEINOLITICA DE LAS PROTEASAS DEL FRUTO DE AGUAMA (Bromelia pinguin L.) | Moreno-Henandez, J. M., Hernandez-Mancillas, X. D., Coss Navarrete, E. L., Banuelos-Perez, M. de J., Salazar-Leyva, J. A., Osuna-Ruiz, I., Rodriguez-Tirado, V. A., & Mazorra-Manzano, M. Angel | DOI: https://doi.org/10.18633/biotecnia.v19i2.380"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n2026 | Gene expression profiling of dendritic cell tolerance dysfunction in women with Systemic lupus erythematosus. Authors: Ana Laura Hernández-Ledesma, Evelia Lorena Coss-Navarrete, et al. | bioRxiv DOI: https://doi.org/10.64898/2025.12.21.695630.\n\nAbstract: Systemic lupus erythematosus (SLE) involves profound immune tolerance defects. In this study, we profiled dendritic cells from women with SLE and healthy donors, revealing interferon‑stimulated gene dominance, impaired IL‑10 signaling, and altered lipid metabolism. These findings highlight converging mechanisms that compromise dendritic cell tolerogenic capacity and contribute to disease pathogenesis.\nIn this study, I contributed to transcriptomic data analysis, statistical reporting, and figure design, integrating biological interpretation of dendritic cell dysfunction in systemic lupus erythematosus.\nData set: Regulatory Network Analysis of SLE-Associated Regulon Activity using SCENIC pipeline. Zenodo. https://doi.org/10.5281/zenodo.17419882\nData set: Analysis of gene expression profiles during tolerance induction in dendritic cells from women with Systemic Lupus Erythematosus. Zenodo. https://doi.org/10.5281/zenodo.17742206\nGitHub: SLE Transcriptomic analysis tolerogenic\n\nPending | Differential gene expression in Peripheral Blood Mononuclear Cells from individuals with Systemic Lupus Erythematosus| Sofía Guadalupe Salazar-Magaña, Ana Laura Hernández-Ledesma, Evelia Lorena Coss-Navarrete, Florencia Rosetti, Deshiré Alpízar-Rodríguez, Alejandra Medina-Rivera\nPending | Transcriptional heterogeneity of human peripheral blood neutrophils: a meta-analysis | Saul Karr-de-León, Evelia Lorena Coss-Navarrete, Jorge Andrés Cázares-Preciado, Emmanuel Martínez-Ledesma, Alejandra Medina-Rivera and Marion E.G. Brunck\nPending | Análisis de la menarca en mujeres mexicanas (lupus, jaguar, twins, parkinson)\nPending | Shiny app de lupus\n\nGitHub: LupusRGMX_ShinyApp"
+  },
+  {
+    "objectID": "publications.html#collaborations-and-acknowledgments-in-publications",
+    "href": "publications.html#collaborations-and-acknowledgments-in-publications",
+    "title": "Publications",
+    "section": "Collaborations and Acknowledgments in Publications",
+    "text": "Collaborations and Acknowledgments in Publications\nAcknowledged in the following publications for support and collaboration:\n\nAn educator framework for organizing Wikipedia editathons for computational biology- Bioinformatics (2025, Supplement 1, i12). Acknowledged for contributions to the project.\nEnhancing antioxidant and antimutagenic activity of the green seaweed Rhizoclonium riparium by bioassay-guided solvent partitioning - Journal of Applied Phycology (2019). Mentioned in acknowledgments for technical collaboration.\nAntioxidant, antimutagenic and antiproliferative activities in selected seaweed species from Sinaloa, Mexico - Pharmaceutical Biology (2016). Recognized in acknowledgments for research support."
+  },
+  {
+    "objectID": "about-es.html",
+    "href": "about-es.html",
+    "title": "Sobre mi",
+    "section": "",
+    "text": "English  Español\n\n\n\nBiografía\nSoy investigadora posdoctoral especializada en transcriptómica y análisis de datos de célula única. Me dedico a crear recursos didácticos bilingües y reproducibles en bioinformática, con el objetivo de que la ciencia sea más abierta y accesible. También impulso comunidades científicas como RSG-México y R-Ladies Morelia, y colaboro en redes internacionales para fortalecer la formación, la comunicación interdisciplinaria y la equidad en la ciencia.\nMe encuentro interesada en: la regulación génica regulation, los RNAs largos no codificantes (lncRNAs), las enfermedades autoinmunes, la evolución y la bioinformática.\nSoy fundadora de los VieRnes de Bioinformática en el @LIIGH-UNAM, una iniciativa de divulgación que promueve el aprendizaje abierto y colaborativo en bioinformática | web page: https://viernesbioinformatica.github.io/| Github: ViernesBioinfo2024 and ViernesBioinfo2023\n\n\nEducación\n\nInvestigadora posdoctoral | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | 01 Febrero 2023 - Actualmente\nThe Carpentries | Instructora certificada por The Carpentries | 2023 - Actualmente\nDoctorado en Biotecnología de plantas | @Cinvestav UGA-Langebio, Mexico | Dr. @Selene Fernandez-Valverde | Agosto 2018 - 11 Enero 2023 | Tesis\nMaestría en Biotecnología de plantas | @Cinvestav UGA-Langebio, Mexico | Dr. Raúl Alvárez y Dr. Stefan de Folter | Agosto 2016 - Julio 2018 | Tesis\nIngeniería en Biotecnología | Universidad Politecnica de Sinaloa @UPSIN | 2012-2016\n\n\n\nExperiencia\nParticipo activamente en diversas redes científicas y comunitarias, incluyendo el @JAGUAR Project, @R-ladies Morelia, @RIABIO, @LupusRGMX, @CDSB Mexico y @ISCB RSG-Mexico.\n\n\nContribuciones\nDurante mi doctorado, me toco contribuir en la traducción del curso Plants & Python (Web page: Plants&Python, GitHub: Plants&Python) en colaboración con el Dr. Daniel H. Chitwood, el Dr. Robert VanBuren y Alejandra Rougon-Cardoso, siendo mi primer encuentro con la mejora en la educación.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I´m Evelia Coss",
+    "section": "",
+    "text": "I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.\nI’m Evelia Coss, a postdoctoral researcher at LIIGH-UNAM. I specialize in transcriptomic and single-cell data analysis, bilingual scientific documentation, and reproducible resources for bioinformatics.\nFounding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @LIIGH-UNAM) | web page: https://viernesbioinformatica.github.io/ | Github: ViernesBioinfo2024 and ViernesBioinfo2023\n\n\n Back to top"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "English  Español\n\n\n\nBio\nI am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.\nFounding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @LIIGH-UNAM) | web page: https://viernesbioinformatica.github.io/| Github: ViernesBioinfo2024 and ViernesBioinfo2023\n\n\nEducation\n\nPostdoctoral Fellowship | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | February 2023 - Present\nThe Carpentries | Certified Instructor with The Carpentries | 2023 - Present\nPhD in Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. @Selene Fernandez-Valverde | August 2018 - January 2023 | Thesis\nM. Sc., Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. Raúl Alvárez y Dr. Stefan de Folter | Agosto 2016 - Julio 2018 | Thesis\nB.Sc.,Biotechnology Engineering | Universidad Politecnica de Sinaloa @UPSIN | 2012-2016\n\n\n\nExperience\nMember of the @JAGUAR Project, @R-ladies Morelia, @RIABIO, @LupusRGMX, @CDSB Mexico and @ISCB RSG-Mexico.\n\n\nRepository Contributions\nWebpage Plants&Python | Github Plants&Python | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "tutorial-1.html",
+    "href": "tutorial-1.html",
+    "title": "tutorials-1",
+    "section": "",
+    "text": "Análisis de datos transcriptomicos\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Tutorials",
+      "tutorials-1"
+    ]
+  }
+]

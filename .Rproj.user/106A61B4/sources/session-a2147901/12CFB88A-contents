@@ -1,0 +1,69 @@
+---
+title: "About me"
+subtitle: "Hi, I´m Evelia Coss"
+image: "assets/EveliaCoss.jpg"
+about:
+  image-width: 10em
+  image-shape: round
+  template: solana
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/EveliaCoss/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/evelia-lorena-coss-navarrete-562226229/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/EveliaCoss/
+    - icon: envelope
+      text: Mail
+      href: mailto:ecoss@liigh.unam.mx
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0002-7087-2977
+    - icon: researchgate
+      text: Research Gate
+      href: https://www.researchgate.net/profile/Evelia-Coss-Navarrete?ev=hdr_xprf        
+    - icon: file-text-fill
+      text: CV
+      href: https://eveliacoss.github.io/CV/cv_ECoss.html
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+```
+
+<center>
+
+::: {.btn-group role="group" aria-label="About"}
+<a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="about-es.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a>
+:::
+
+</center>
+
+#### **Bio**
+
+I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.
+
+Founding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at \@[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM)) \| web page: <https://viernesbioinformatica.github.io/>\| Github: [ViernesBioinfo2024](https://github.com/EveliaCoss/ViernesBioinfo2024) and [ViernesBioinfo2023](https://github.com/EveliaCoss/ViernesBioinfo2023)
+
+#### **Education**
+
+-   **Postdoctoral Fellowship** \| \@[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) \| Dr. \@[Alejandra Medina-Rivera](https://twitter.com/AleMedinaRivera) \| February 2023 - Present
+
+-   **The Carpentries** \| Certified Instructor with [The Carpentries](https://carpentries.org/) \| 2023 - Present
+
+-   **PhD in Plant Biotechnology** \| \@[Cinvestav UGA-Langebio](https://twitter.com/uga_langebio), Mexico \| Dr. \@[Selene Fernandez-Valverde](https://twitter.com/SelFdz) \| August 2018 - January 2023 \| [Tesis](thesis/Tesis_PhD_ELCN.pdf)
+
+-   **M. Sc., Plant Biotechnology** \| \@[Cinvestav UGA-Langebio](https://twitter.com/uga_langebio), Mexico \| Dr. Raúl Alvárez y Dr. Stefan de Folter \| Agosto 2016 - Julio 2018 \| [Tesis](thesis/Thesis_MsC_EveliaCoss.pdf)
+
+-   **B.Sc.,Biotechnology Engineering** \| Universidad Politecnica de Sinaloa [\@UPSIN](https://upsin.edu.mx/) \| 2012-2016
+
+#### **Experience**
+
+Member of the \@[JAGUAR Project](https://twitter.com/PJaguarLATAM), \@[R-ladies Morelia](https://www.facebook.com/profile.php?id=100093337606435), \@[RIABIO](https://twitter.com/RiaBioNet), \@[LupusRGMX](https://lupusrgmx.liigh.unam.mx/quienes-somos.html), \@[CDSB Mexico](https://twitter.com/CDSBMexico) and \@[ISCB RSG-Mexico](https://x.com/rsg_iscb_mexico?lang=es).
+
+#### **Repository Contributions**
+
+Webpage [Plants&Python](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html) \| Github [Plants&Python](https://github.com/PlantsAndPython/PlantsAndPython) \| Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso
