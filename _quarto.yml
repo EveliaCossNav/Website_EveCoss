@@ -23,6 +23,7 @@ website:
         - tutorials.qmd
         - tutorial-1.qmd
         - tutorial-2.qmd
+        - reprohack.qmd
 
   # Parte inferior de la pagina web
   page-footer: 

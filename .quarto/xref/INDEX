@@ -22,5 +22,14 @@
   },
   "publications.qmd": {
     "publications.html": "95d8ef39"
+  },
+  "404.qmd": {
+    "404.html": "bf48dd4e"
+  },
+  "teaching/Tutorial1.qmd": {
+    "Tutorial1.html": "13e38a85"
+  },
+  "reprohack.qmd": {
+    "reprohack.html": "3b584c08"
   }
 }
