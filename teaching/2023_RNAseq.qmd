@@ -1,0 +1,24 @@
+---
+title: "Análisis de datos transcriptómicos"
+subtitle: "Kallisto + DESeq2 + topGO"
+author: "Evelia Coss"
+description:  "Clases para los alumnos de Ciencias Genomicas de la UNAM dentro del programa Bioinformatica y estadistica 2"
+date: "2023-02-21"
+image: "img/EveliaCoss.jpg"
+categories: [bioinformatics, bulk-RNA-seq]
+format: html
+---
+
+## Información general
+
+-   **Fechas:** 21 al 24 de febrero, 2023.
+-   **GitHub:** [[RNAseq_classFEB2023]{.underline}](https://github.com/EveliaCoss/RNAseq_classFEB2023)
+-   **Especie:** *Arabidopsis thaliana*
+-   **Pipeline:** Pseudoalineamiento y conteo con Kallisto + DESeq2 + topGO
+
+## Plan de estudios
+
+-   **Dia 1.** Aspectos generales de RNA-Seq \| 21 febrero \| [Presentación](https://github.com/EveliaCoss/RNAseq_classFEB2023/blob/3593a9d29f484aab8dd7fb63ab38a6ea725dc59f/RNA_seq/slides/D1_IntroRNASeq_CosasTecnicas.pdf) \| [Práctica](https://github.com/EveliaCoss/RNAseq_classFEB2023/blob/main/RNA_seq/README.md#practica1)
+-   **Dia 2.** Diversos pipeline para Alineamiento, ensamblaje y conteo \| 22 febrero \| [Presentación](https://github.com/EveliaCoss/RNAseq_classFEB2023/blob/24cccaa85e8dd653ec503613307650bf1d07c208/RNA_seq/slides/D2_Alineamiento1_sesion.pdf) \| [Práctica](https://github.com/EveliaCoss/RNAseq_classFEB2023/blob/main/RNA_seq/README.md#practica2)
+-   **Dia 3.** Importar datos en R, Normalización y Corrección por batch / DEG con DESeq2 \| 23 febrero \| [Presentación](https://github.com/EveliaCoss/RNAseq_classFEB2023/blob/149ae3f12e30366c982f3cc3418d00af0b1658c1/RNA_seq/slides/D3_Normalizacion_batch_sesion.pdf) \| [Práctica](https://github.com/EveliaCoss/RNAseq_classFEB2023/blob/main/RNA_seq/README.md#practica3)
+-   **Dia 4.** GSEA - Análisis funcional \| 24 febrero \| [Presentación](https://github.com/EveliaCoss/RNAseq_classFEB2023/blob/f9e459faebaa72c2eaf4daad63d03fc313d5bfc6/RNA_seq/slides/D4_ExpresionDiferencial_sesion.pdf) \| [Práctica](https://github.com/EveliaCoss/RNAseq_classFEB2023/blob/main/RNA_seq/README.md#practica4)

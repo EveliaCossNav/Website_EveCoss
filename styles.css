@@ -8,3 +8,15 @@
   background-color: #95b540 !important; /* color al pasar el mouse */
   border-color: #95b540 !important;
 }
+
+/* Barra lateral izquiera en Tutorials */
+/* Bloque resaltado en morado para el item activo del sidebar */
+.sidebar .sidebar-item-container .active {
+  background-color: #dadaeb;   /* fondo morado muy claro */
+  border-left: 4px solid #3f007d; /* línea lateral morada intensa */
+  border-radius: 6px;          /* esquinas redondeadas */
+  padding: 6px 10px;           /* espacio interno */
+  font-weight: bold;           /* texto en negritas */
+  color: #4b0082;              /* texto morado oscuro */
+}
+

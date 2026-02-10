@@ -1,0 +1,31 @@
+---
+title: "Análisis de datos transcriptómicos"
+subtitle: "STAR o Kallisto + DESeq2 + g:Profiler2"
+author: "Evelia Coss"
+description:  "Clases para los alumnos de Ciencias Genomicas de la UNAM dentro del programa Bioinformatica y estadistica 2"
+date: "2026-02-14"
+image: "img/EveliaCoss.jpg"
+categories: [bioinformatics, bulk-RNA-seq, 2026]
+format: html
+---
+
+## Información general
+
+-   **Fechas:** 14, 16, 21, 23, 28, 30 de abril, 2026.
+-   **GitHub:** [[RNAseq_classFEB2026]{.underline}](https://github.com/EveliaCoss/RNAseq_classFEB2026)
+-   **Especie:** *Homo sapiens*
+
+**Pipelines:**
+
+1.  Alineamiento y conteo con STAR + DESeq2 + g:Profiler2
+2.  Pseudoalineamiento y conteo con Kallisto + DESeq2 + g:Profiler2
+3.  Nexflow: [rnaseq-nf](https://nextflow.io/docs/stable/tutorials/rnaseq-nf.html)
+
+## Plan de estudios
+
+-   **Dia 1.** Aspectos generales de RNA-Seq / Control de calidad de los datos \| 14 abril \| Presentación
+-   **Dia 2.** Diversos pipelines para Alineamiento, ensamblaje y conteo de reads \| 16 abril \| Presentación
+-   **Dia 3.** Importar datos en R, Normalización y Corrección por batch effect \| 21 abril \| Presentación
+-   **Dia 4.** DEG con STAR y DESeq2 \| 23 abril \| Presentación
+-   **Dia 5.** DEG con kallisto y DESeq2 \| 28 febrero \| Presentación
+-   **Dia 6.** GSEA - Análisis funcional de los genes diferencialmente expresados \| 30 febrero \| Presentación

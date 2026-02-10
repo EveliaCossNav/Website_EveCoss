@@ -40,6 +40,7 @@ language:
 library(fontawesome)
 ```
 
+
 I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.
 
 I’m Evelia Coss, a postdoctoral researcher at LIIGH-UNAM. I specialize in transcriptomic and single-cell data analysis, bilingual scientific documentation, and reproducible resources for bioinformatics.

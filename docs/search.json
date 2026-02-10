@@ -15,18 +15,75 @@
     "href": "tutorials.html",
     "title": "Teaching experience",
     "section": "",
-    "text": "Introducción a R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTutorial1\n\n\n\nbioinformatics\n\nteaching\n\n\n\n\nEvelia Coss\n\n\nJan 28, 2026\n\n\n\n\n\n\nNo matching items\n Back to top",
+    "text": "Introducción a R\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAnálisis de datos transcriptómicos\n\n\nKallisto + DESeq2 + topGO\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n\n\n\nFeb 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis de datos transcriptómicos\n\n\nSTAR + DESeq2 + g:Profiler2\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n2024\n\n\n\n\nFeb 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis de datos transcriptómicos\n\n\nSTAR + DESeq2 + g:Profiler2\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n2025\n\n\n\n\nFeb 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis de datos transcriptómicos\n\n\nSTAR o Kallisto + DESeq2 + g:Profiler2\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n2026\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nTutorial1\n\n\nejemplo1\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n2023\n\n\n\n\nFeb 21, 2023\n\n\n\n\n\n\nNo matching items\n Back to top",
     "crumbs": [
       "Tutorials",
       "Teaching experience"
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
+    "objectID": "teaching/2023_Rmarkdown.html",
+    "href": "teaching/2023_Rmarkdown.html",
+    "title": "Tutorial1",
     "section": "",
-    "text": "English  Español\n\n\n\nBio\nI am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.\nFounding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @LIIGH-UNAM) | web page: https://viernesbioinformatica.github.io/| Github: ViernesBioinfo2024 and ViernesBioinfo2023\n\n\nEducation\n\nPostdoctoral Fellowship | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | February 2023 - Present\nThe Carpentries | Certified Instructor with The Carpentries | 2023 - Present\nPhD in Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. @Selene Fernandez-Valverde | August 2018 - January 2023 | Thesis\nM. Sc., Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. Raúl Alvárez y Dr. Stefan de Folter | Agosto 2016 - Julio 2018 | Thesis\nB.Sc.,Biotechnology Engineering | Universidad Politecnica de Sinaloa @UPSIN | 2012-2016\n\n\n\nExperience\nMember of the @JAGUAR Project, @R-ladies Morelia, @RIABIO, @LupusRGMX, @CDSB Mexico and @ISCB RSG-Mexico.\n\n\nRepository Contributions\nWebpage Plants&Python | Github Plants&Python | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso\n\n\n\n Back to top"
+    "text": "21 al 24 de Febrero del 2023.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "teaching/2026_RNAseq.html",
+    "href": "teaching/2026_RNAseq.html",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "",
+    "text": "Fechas: 14, 16, 21, 23, 28, 30 de abril, 2026.\nGitHub: RNAseq_classFEB2026\nEspecie: Homo sapiens\n\nPipelines:\n\nAlineamiento y conteo con STAR + DESeq2 + g:Profiler2\nPseudoalineamiento y conteo con Kallisto + DESeq2 + g:Profiler2\nNexflow: rnaseq-nf"
+  },
+  {
+    "objectID": "teaching/2026_RNAseq.html#información-general",
+    "href": "teaching/2026_RNAseq.html#información-general",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "",
+    "text": "Fechas: 14, 16, 21, 23, 28, 30 de abril, 2026.\nGitHub: RNAseq_classFEB2026\nEspecie: Homo sapiens\n\nPipelines:\n\nAlineamiento y conteo con STAR + DESeq2 + g:Profiler2\nPseudoalineamiento y conteo con Kallisto + DESeq2 + g:Profiler2\nNexflow: rnaseq-nf"
+  },
+  {
+    "objectID": "teaching/2026_RNAseq.html#plan-de-estudios",
+    "href": "teaching/2026_RNAseq.html#plan-de-estudios",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "Plan de estudios",
+    "text": "Plan de estudios\n\nDia 1. Aspectos generales de RNA-Seq / Control de calidad de los datos | 14 abril | Presentación\nDia 2. Diversos pipelines para Alineamiento, ensamblaje y conteo de reads | 16 abril | Presentación\nDia 3. Importar datos en R, Normalización y Corrección por batch effect | 21 abril | Presentación\nDia 4. DEG con STAR y DESeq2 | 23 abril | Presentación\nDia 5. DEG con kallisto y DESeq2 | 28 febrero | Presentación\nDia 6. GSEA - Análisis funcional de los genes diferencialmente expresados | 30 febrero | Presentación"
+  },
+  {
+    "objectID": "VieRnesBioinfo.html",
+    "href": "VieRnesBioinfo.html",
+    "title": "VieRnes de Bioinformática en el LIIGH",
+    "section": "",
+    "text": "Parte 0 https://github.com/EveliaCoss/ViernesBioinfo2023 Parte 1 https://github.com/EveliaCoss/ViernesBioinfo2024 Parte 2 https://github.com/EveliaCoss/ViernesBioinfo2024_parte2 Parte 3 https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3 PArte4\n\n\n\n Back to top",
+    "crumbs": [
+      "Tutorials",
+      "VieRnes de Bioinformática en el LIIGH"
+    ]
+  },
+  {
+    "objectID": "reprohack.html",
+    "href": "reprohack.html",
+    "title": "Reprohack",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Tutorials",
+      "Reprohack"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I´m Evelia Coss",
+    "section": "",
+    "text": "I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.\nI’m Evelia Coss, a postdoctoral researcher at LIIGH-UNAM. I specialize in transcriptomic and single-cell data analysis, bilingual scientific documentation, and reproducible resources for bioinformatics.\nFounding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @LIIGH-UNAM) | web page: https://viernesbioinformatica.github.io/ | Github: ViernesBioinfo2024 and ViernesBioinfo2023\n\n\n Back to top"
+  },
+  {
+    "objectID": "about-es.html",
+    "href": "about-es.html",
+    "title": "Sobre mi",
+    "section": "",
+    "text": "English  Español\n\n\n\nBiografía\nSoy investigadora posdoctoral especializada en transcriptómica y análisis de datos de célula única. Me dedico a crear recursos didácticos bilingües y reproducibles en bioinformática, con el objetivo de que la ciencia sea más abierta y accesible. También impulso comunidades científicas como RSG-México y R-Ladies Morelia, y colaboro en redes internacionales para fortalecer la formación, la comunicación interdisciplinaria y la equidad en la ciencia.\nMe encuentro interesada en: la regulación génica regulation, los RNAs largos no codificantes (lncRNAs), las enfermedades autoinmunes, la evolución y la bioinformática.\nSoy fundadora de los VieRnes de Bioinformática en el @LIIGH-UNAM, una iniciativa de divulgación que promueve el aprendizaje abierto y colaborativo en bioinformática | web page: https://viernesbioinformatica.github.io/| Github: ViernesBioinfo2024 and ViernesBioinfo2023\n\n\nEducación\n\nInvestigadora posdoctoral | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | 01 Febrero 2023 - Actualmente\nThe Carpentries | Instructora certificada por The Carpentries | 2023 - Actualmente\nDoctorado en Biotecnología de plantas | @Cinvestav UGA-Langebio, Mexico | Dr. @Selene Fernandez-Valverde | Agosto 2018 - 11 Enero 2023 | Tesis\nMaestría en Biotecnología de plantas | @Cinvestav UGA-Langebio, Mexico | Dr. Raúl Alvárez y Dr. Stefan de Folter | Agosto 2016 - Julio 2018 | Tesis\nIngeniería en Biotecnología | Universidad Politecnica de Sinaloa @UPSIN | 2012-2016\n\n\n\nExperiencia\nParticipo activamente en diversas redes científicas y comunitarias, incluyendo el @JAGUAR Project, @R-ladies Morelia, @RIABIO, @LupusRGMX, @CDSB Mexico y @ISCB RSG-Mexico.\n\n\nContribuciones\nDurante mi doctorado, me toco contribuir en la traducción del curso Plants & Python (Web page: Plants&Python, GitHub: Plants&Python) en colaboración con el Dr. Daniel H. Chitwood, el Dr. Robert VanBuren y Alejandra Rougon-Cardoso, siendo mi primer encuentro con la mejora en la educación.\n\n\n\n Back to top"
   },
   {
     "objectID": "publications.html",
@@ -50,36 +107,74 @@
     "text": "Collaborations and Acknowledgments in Publications\nAcknowledged in the following publications for support and collaboration:\n\nAn educator framework for organizing Wikipedia editathons for computational biology- Bioinformatics (2025, Supplement 1, i12). Acknowledged for contributions to the project.\nEnhancing antioxidant and antimutagenic activity of the green seaweed Rhizoclonium riparium by bioassay-guided solvent partitioning - Journal of Applied Phycology (2019). Mentioned in acknowledgments for technical collaboration.\nAntioxidant, antimutagenic and antiproliferative activities in selected seaweed species from Sinaloa, Mexico - Pharmaceutical Biology (2016). Recognized in acknowledgments for research support."
   },
   {
-    "objectID": "about-es.html",
-    "href": "about-es.html",
-    "title": "Sobre mi",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
     "section": "",
-    "text": "English  Español\n\n\n\nBiografía\nSoy investigadora posdoctoral especializada en transcriptómica y análisis de datos de célula única. Me dedico a crear recursos didácticos bilingües y reproducibles en bioinformática, con el objetivo de que la ciencia sea más abierta y accesible. También impulso comunidades científicas como RSG-México y R-Ladies Morelia, y colaboro en redes internacionales para fortalecer la formación, la comunicación interdisciplinaria y la equidad en la ciencia.\nMe encuentro interesada en: la regulación génica regulation, los RNAs largos no codificantes (lncRNAs), las enfermedades autoinmunes, la evolución y la bioinformática.\nSoy fundadora de los VieRnes de Bioinformática en el @LIIGH-UNAM, una iniciativa de divulgación que promueve el aprendizaje abierto y colaborativo en bioinformática | web page: https://viernesbioinformatica.github.io/| Github: ViernesBioinfo2024 and ViernesBioinfo2023\n\n\nEducación\n\nInvestigadora posdoctoral | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | 01 Febrero 2023 - Actualmente\nThe Carpentries | Instructora certificada por The Carpentries | 2023 - Actualmente\nDoctorado en Biotecnología de plantas | @Cinvestav UGA-Langebio, Mexico | Dr. @Selene Fernandez-Valverde | Agosto 2018 - 11 Enero 2023 | Tesis\nMaestría en Biotecnología de plantas | @Cinvestav UGA-Langebio, Mexico | Dr. Raúl Alvárez y Dr. Stefan de Folter | Agosto 2016 - Julio 2018 | Tesis\nIngeniería en Biotecnología | Universidad Politecnica de Sinaloa @UPSIN | 2012-2016\n\n\n\nExperiencia\nParticipo activamente en diversas redes científicas y comunitarias, incluyendo el @JAGUAR Project, @R-ladies Morelia, @RIABIO, @LupusRGMX, @CDSB Mexico y @ISCB RSG-Mexico.\n\n\nContribuciones\nDurante mi doctorado, me toco contribuir en la traducción del curso Plants & Python (Web page: Plants&Python, GitHub: Plants&Python) en colaboración con el Dr. Daniel H. Chitwood, el Dr. Robert VanBuren y Alejandra Rougon-Cardoso, siendo mi primer encuentro con la mejora en la educación.\n\n\n\n Back to top"
+    "text": "English  Español\n\n\n\nBio\nI am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.\nFounding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @LIIGH-UNAM) | web page: https://viernesbioinformatica.github.io/| Github: ViernesBioinfo2024 and ViernesBioinfo2023\n\n\nEducation\n\nPostdoctoral Fellowship | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | February 2023 - Present\nThe Carpentries | Certified Instructor with The Carpentries | 2023 - Present\nPhD in Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. @Selene Fernandez-Valverde | August 2018 - January 2023 | Thesis\nM. Sc., Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. Raúl Alvárez y Dr. Stefan de Folter | Agosto 2016 - Julio 2018 | Thesis\nB.Sc.,Biotechnology Engineering | Universidad Politecnica de Sinaloa @UPSIN | 2012-2016\n\n\n\nExperience\nMember of the @JAGUAR Project, @R-ladies Morelia, @RIABIO, @LupusRGMX, @CDSB Mexico and @ISCB RSG-Mexico.\n\n\nRepository Contributions\nWebpage Plants&Python | Github Plants&Python | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso\n\n\n\n Back to top"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi, I´m Evelia Coss",
+    "objectID": "teaching/2025_RNAseq.html",
+    "href": "teaching/2025_RNAseq.html",
+    "title": "Análisis de datos transcriptómicos",
     "section": "",
-    "text": "I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.\nI’m Evelia Coss, a postdoctoral researcher at LIIGH-UNAM. I specialize in transcriptomic and single-cell data analysis, bilingual scientific documentation, and reproducible resources for bioinformatics.\nFounding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @LIIGH-UNAM) | web page: https://viernesbioinformatica.github.io/ | Github: ViernesBioinfo2024 and ViernesBioinfo2023\n\n\n Back to top"
+    "text": "Fechas: 25 y 27 febrero, 4 y 6 marzo, 2025\nGitHub: RNAseq_classFEB2025\nEspecie: Homo sapiens\nPipeline: Alineamiento y conteo con STAR + DESeq2 + g:Profiler2"
   },
   {
-    "objectID": "reprohack.html",
-    "href": "reprohack.html",
-    "title": "Reprohack",
+    "objectID": "teaching/2025_RNAseq.html#información-general",
+    "href": "teaching/2025_RNAseq.html#información-general",
+    "title": "Análisis de datos transcriptómicos",
     "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Tutorials",
-      "Reprohack"
-    ]
+    "text": "Fechas: 25 y 27 febrero, 4 y 6 marzo, 2025\nGitHub: RNAseq_classFEB2025\nEspecie: Homo sapiens\nPipeline: Alineamiento y conteo con STAR + DESeq2 + g:Profiler2"
   },
   {
-    "objectID": "teaching/Tutorial1.html",
-    "href": "teaching/Tutorial1.html",
-    "title": "Tutorial1",
+    "objectID": "teaching/2025_RNAseq.html#plan-de-estudios",
+    "href": "teaching/2025_RNAseq.html#plan-de-estudios",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "Plan de estudios",
+    "text": "Plan de estudios\n\nDia 1. Aspectos generales de RNA-Seq | 25 febrero | Presentación\nDia 2. Diversos pipeline para Alineamiento, ensamblaje y conteo | 27 febrero | Presentación\nDia 3. Importar datos en R, Normalización y Corrección por batch / DEG con DESeq2 | 4 marzo | Presentación\nDia 4. GSEA - Análisis funcional | 6 marzo | Presentación"
+  },
+  {
+    "objectID": "teaching/2023_RNAseq.html",
+    "href": "teaching/2023_RNAseq.html",
+    "title": "Análisis de datos transcriptómicos",
     "section": "",
-    "text": "Back to top"
+    "text": "Fechas: 21 al 24 de febrero, 2023.\nGitHub: RNAseq_classFEB2023\nEspecie: Arabidopsis thaliana\nPipeline: Pseudoalineamiento y conteo con Kallisto + DESeq2 + topGO"
+  },
+  {
+    "objectID": "teaching/2023_RNAseq.html#información-general",
+    "href": "teaching/2023_RNAseq.html#información-general",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "",
+    "text": "Fechas: 21 al 24 de febrero, 2023.\nGitHub: RNAseq_classFEB2023\nEspecie: Arabidopsis thaliana\nPipeline: Pseudoalineamiento y conteo con Kallisto + DESeq2 + topGO"
+  },
+  {
+    "objectID": "teaching/2023_RNAseq.html#plan-de-estudios",
+    "href": "teaching/2023_RNAseq.html#plan-de-estudios",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "Plan de estudios",
+    "text": "Plan de estudios\n\nDia 1. Aspectos generales de RNA-Seq | 21 febrero | Presentación | Práctica\nDia 2. Diversos pipeline para Alineamiento, ensamblaje y conteo | 22 febrero | Presentación | Práctica\nDia 3. Importar datos en R, Normalización y Corrección por batch / DEG con DESeq2 | 23 febrero | Presentación | Práctica\nDia 4. GSEA - Análisis funcional | 24 febrero | Presentación | Práctica"
+  },
+  {
+    "objectID": "teaching/2024_RNAseq.html",
+    "href": "teaching/2024_RNAseq.html",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "",
+    "text": "Fechas: 27 al 29 de febrero, 1 marzo, 2024\nGitHub: RNAseq_classFEB2024\nEspecie: Mus musculus\nBioproject: PRJNA649971\nPipeline: Alineamiento y conteo con STAR + DESeq2 + g:Profiler2"
+  },
+  {
+    "objectID": "teaching/2024_RNAseq.html#información-general",
+    "href": "teaching/2024_RNAseq.html#información-general",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "",
+    "text": "Fechas: 27 al 29 de febrero, 1 marzo, 2024\nGitHub: RNAseq_classFEB2024\nEspecie: Mus musculus\nBioproject: PRJNA649971\nPipeline: Alineamiento y conteo con STAR + DESeq2 + g:Profiler2"
+  },
+  {
+    "objectID": "teaching/2024_RNAseq.html#plan-de-estudios",
+    "href": "teaching/2024_RNAseq.html#plan-de-estudios",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "Plan de estudios",
+    "text": "Plan de estudios\n\nDia 1. Aspectos generales de RNA-Seq / Control de calidad de los datos | 27 febrero | Presentación\nDia 2. Diversos pipeline para Alineamiento, ensamblaje y conteo de reads | 28 febrero | Presentación\nDia 3. mportar datos en R, Normalización y Corrección por batch / DEG con DESeq2 | 29 febrero | Presentación\nDia 4. GSEA - Análisis funcional | 1 marzo | Presentación"
   },
   {
     "objectID": "tutorial-1.html",

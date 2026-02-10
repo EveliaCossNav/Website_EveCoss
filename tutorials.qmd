@@ -6,7 +6,9 @@ listing:
    - "teaching/*.qmd"
   type: grid
   categories: true
-  fields: [image, date, categories, title, author]
+  fields: [title, image, date, categories, title, subtitle]
+  sort-ui: [title, date] # Agregar barra de orden
+  filter-ui: [title, date] # Agregar barra de filtrado
 ---
 
 # Introducción a R

@@ -1,0 +1,12 @@
+---
+title: "Tutorial1"
+subtitle: "ejemplo1"
+author: "Evelia Coss"
+description:  "Clases para los alumnos de Ciencias Genomicas de la UNAM dentro del programa Bioinformatica y estadistica 2"
+date: "2023-02-21"
+image: "img/EveliaCoss.jpg"
+categories: [bioinformatics, bulk-RNA-seq, 2023]
+format: html
+---
+
+21 al 24 de Febrero del 2023.

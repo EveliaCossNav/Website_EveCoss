@@ -31,5 +31,23 @@
   },
   "reprohack.qmd": {
     "reprohack.html": "3b584c08"
+  },
+  "teaching/2023_RNAseq.qmd": {
+    "2023_RNAseq.html": "d5dee964"
+  },
+  "teaching/2023_Rmarkdown.qmd": {
+    "2023_Rmarkdown.html": "7a41604f"
+  },
+  "teaching/2025_RNAseq.qmd": {
+    "2025_RNAseq.html": "74112f1e"
+  },
+  "teaching/2026_RNAseq.qmd": {
+    "2026_RNAseq.html": "4ab384e2"
+  },
+  "teaching/2024_RNAseq.qmd": {
+    "2024_RNAseq.html": "0deb080f"
+  },
+  "VieRnesBioinfo.qmd": {
+    "VieRnesBioinfo.html": "96bd5ac4"
   }
 }

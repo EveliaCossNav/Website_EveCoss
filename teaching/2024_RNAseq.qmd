@@ -1,0 +1,25 @@
+---
+title: "Análisis de datos transcriptómicos"
+subtitle: "STAR + DESeq2 + g:Profiler2"
+author: "Evelia Coss"
+description:  "Clases para los alumnos de Ciencias Genomicas de la UNAM dentro del programa Bioinformatica y estadistica 2"
+date: "2024-02-27"
+image: "img/EveliaCoss.jpg"
+categories: [bioinformatics, bulk-RNA-seq, 2024]
+format: html
+---
+
+## Información general
+
+-   **Fechas:** 27 al 29 de febrero, 1 marzo, 2024
+-   **GitHub:** [[RNAseq_classFEB2024]{.underline}](https://github.com/EveliaCoss/RNAseq_classFEB2024)
+-   **Especie:** *Mus musculus*
+-   **Bioproject:** [PRJNA649971](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA649971)
+-   **Pipeline:** Alineamiento y conteo con STAR + DESeq2 + g:Profiler2
+
+## Plan de estudios
+
+-   **Dia 1.** Aspectos generales de RNA-Seq / Control de calidad de los datos \| 27 febrero \| [Presentación](https://eveliacoss.github.io/RNAseq_classFEB2024/Presentaciones/Dia1_AspectosGenerales.html#1)
+-   **Dia 2.** Diversos pipeline para Alineamiento, ensamblaje y conteo de reads \| 28 febrero \| [Presentación](https://eveliacoss.github.io/RNAseq_classFEB2024/Presentaciones/Dia2_QCAlineamiento.html#1)
+-   **Dia 3.** mportar datos en R, Normalización y Corrección por batch / DEG con DESeq2 \| 29 febrero \| [Presentación](https://eveliacoss.github.io/RNAseq_classFEB2024/Presentaciones/Dia3_ImportarDatos.html#1)
+-   **Dia 4.** GSEA - Análisis funcional \| 1 marzo \| [Presentación](https://eveliacoss.github.io/RNAseq_classFEB2024/Presentaciones/Dia4_GSEA.html#1)

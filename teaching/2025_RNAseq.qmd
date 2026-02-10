@@ -1,0 +1,24 @@
+---
+title: "Análisis de datos transcriptómicos"
+subtitle: "STAR + DESeq2 + g:Profiler2"
+author: "Evelia Coss"
+description:  "Clases para los alumnos de Ciencias Genomicas de la UNAM dentro del programa Bioinformatica y estadistica 2"
+date: "2025-02-25"
+image: "img/EveliaCoss.jpg"
+categories: [bioinformatics, bulk-RNA-seq, 2025]
+format: html
+---
+
+## Información general
+
+-   **Fechas:** 25 y 27 febrero, 4 y 6 marzo, 2025
+-   **GitHub:** [[RNAseq_classFEB2025]{.underline}](https://github.com/EveliaCoss/RNAseq_classFEB2025)
+-   **Especie:** *Homo sapiens*
+-   **Pipeline:** Alineamiento y conteo con STAR + DESeq2 + g:Profiler2
+
+## Plan de estudios
+
+-   **Dia 1.** Aspectos generales de RNA-Seq \| 25 febrero \| [Presentación](https://eveliacoss.github.io/RNAseq_classFEB2025/Presentaciones/Dia1_AspectosGenerales.html#1)
+-   **Dia 2.** Diversos pipeline para Alineamiento, ensamblaje y conteo \| 27 febrero \| [Presentación](https://eveliacoss.github.io/RNAseq_classFEB2025/Presentaciones/Dia2_QCAlineamiento.html#1)
+-   **Dia 3.** Importar datos en R, Normalización y Corrección por batch / DEG con DESeq2 \| 4 marzo \| [Presentación](https://eveliacoss.github.io/RNAseq_classFEB2025/Presentaciones/Dia3_ImportarDatos.html#1)
+-   **Dia 4.** GSEA - Análisis funcional \| 6 marzo \| [Presentación](https://eveliacoss.github.io/RNAseq_classFEB2025/Presentaciones/Dia4_GSEA.html#1)

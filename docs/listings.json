@@ -2,7 +2,11 @@
   {
     "listing": "/tutorials.html",
     "items": [
-      "/teaching/Tutorial1.html"
+      "/teaching/2023_RNAseq.html",
+      "/teaching/2024_RNAseq.html",
+      "/teaching/2025_RNAseq.html",
+      "/teaching/2026_RNAseq.html",
+      "/teaching/2023_Rmarkdown.html"
     ]
   }
 ]

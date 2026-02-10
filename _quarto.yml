@@ -19,8 +19,10 @@ website:
     - title: "Tutorials"
       style: "docked"
       background: light
+      border: true
       contents:
         - tutorials.qmd
+        - VieRnesBioinfo.qmd
         - tutorial-1.qmd
         - tutorial-2.qmd
         - reprohack.qmd
