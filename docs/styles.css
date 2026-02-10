@@ -20,3 +20,18 @@
   color: #4b0082;              /* texto morado oscuro */
 }
 
+/* Recuadros enlistados con resalte */
+/* Estilo base de las tarjetas del listing */
+.quarto-listing .quarto-grid-item {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 8px;
+}
+
+/* Efecto al pasar el cursor */
+.quarto-listing .quarto-grid-item:hover {
+  transform: scale(1.05); /* agranda ligeramente */
+  box-shadow: 0 8px 20px rgba(128, 0, 128, 0.3); /* sombra morada */
+  z-index: 2;
+}
+
+
