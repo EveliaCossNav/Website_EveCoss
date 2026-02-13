@@ -11,7 +11,7 @@ website:
       - text: "Home" 
         href: index.qmd
       - about.qmd
-      - publications.qmd
+      - publications/index.qmd #publications.qmd
       - text: "Tutorials"
         href: tutorials.qmd      
 

@@ -49,5 +49,53 @@
   },
   "VieRnesBioinfo.qmd": {
     "VieRnesBioinfo.html": "96bd5ac4"
+  },
+  "publications/index.qmd": {
+    "index.html": "438aa6ee"
+  },
+  "publications/2017_03_Down-regulation_PvTRX1h/index.qmd": {
+    "index.html": "c1ebd884"
+  },
+  "publications/2017_01_Partical_characterization_enzymes/index.qmd": {
+    "index.html": "f77c35e5"
+  },
+  "publications/2017_02_Partical_characterization_milk/index.qmd": {
+    "index.html": "eb25cc3b"
+  },
+  "publications/2025_010_tolerogenic/index.qmd": {
+    "index.html": "72c9a306"
+  },
+  "publications/2024_09_Allele_LUPUS/index.qmd": {
+    "index.html": "226eb523"
+  },
+  "publications/2020_04_Chapter/index.qmd": {
+    "index.html": "cc4d9507"
+  },
+  "publications/2022_Plants_and_Python/index.qmd": {
+    "index.html": "7da186bd"
+  },
+  "publications/2022_Transcriptome_arabidopsis/index.qmd": {
+    "index.html": "92375e1f"
+  },
+  "publications/2023_neutrofilos/index.qmd": {
+    "index.html": "89d1b229"
+  },
+  "publications/2025_09_Comunicdades/index.qmd": {
+    "index.html": "a324224d"
+  },
+  "publications/2022_05_Plants_and_Python/index.qmd": {
+    "index.html": "28c0393b"
+  },
+  "publications/2024_08_Allele_LUPUS/index.qmd": {
+    "index.html": "cc4e618e"
+  },
+  "publications/2023_07_neutrofilos/index.qmd": {
+    "index.html": "c239830a"
+  },
+  "publications/2025_10_tolerogenic/index.qmd": {
+    "index.html": "bc789bf4"
+  },
+  "publications/2022_06_Transcriptome_arabidopsis/index.qmd": {
+    "index.html": "e42281c9"
   }
 }
