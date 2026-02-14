@@ -1,82 +1,112 @@
 [
   {
-    "objectID": "tutorial-2.html",
-    "href": "tutorial-2.html",
-    "title": "Other Workshops",
+    "objectID": "tutorial-1.html",
+    "href": "tutorial-1.html",
+    "title": "Workshop on Omics Data Analysis",
     "section": "",
-    "text": "2024 | CDSB 2024: Desarrollo de paqueterías de R/Bioconductor\n\nBioinformatics Software Development\n\nFechas: 28-31 de octubre, 2024\nLocalización: Virtual event\nActividad: Ayudante\nGithub: cdsb2024\nMaterial: Desarrollo de paqueterías de R/Bioconductor\nOrganizado por: VieRnes de Bioinformática en el LIIGH\nLenguaje: Español\n\n\n\n\n\n\n Back to top",
+    "text": "2026 | Bioinformática aplicada al análisis de expresión génica diferencial\nscRNA-seq\n\nFechas: 11, 18 y 25 marzo, 8, 15 y 22 de abril, 2026\nLocalización: UNAM, campus Juriquilla, Querétaro\nActividad: Instructora\nGithub:\nOrganizado por: PROGRAMA DE POSGRADO, MAESTRÍA EN CIENCIAS (NEUROBIOLOGÍA)\nLenguaje: Español\n\n\n\n2026 | Minería Genómica Bacteriana: Identificación de genes de producción y resistencia antimicrobiana\nGenetic Mining\n\nFechas: 29-30 de abril, 2025\nLocalización: LIIGH-UNAM, Querétaro\nActividad: Instructora y ayudante\nGithub: 2025-04-29-MineriaGenomica\nOrganizado por: RSG-México\nLenguaje: Español\n\n\n\n2024 | Analyzing PBMCs Single Cell ATAC- Seq (scATAC-Seq) and Multiome data: Theory and practice\nscATAC-seq\n\nDate: 11 November, 2024\nVenue: Universidad CES, Medellín, Colombia\nActivity: Organizer and Instructor\nGithub: Tutorial scATACseq\nBook/Resource: Analyzing PBMCs Single Cell ATAC- Seq (scATAC-Seq) and Multiome data: Theory and practice\nOrganizer: Wellcome Connecting Science\nLanguage: English\n\n\n\n2024 | Single Cell Genomic Approaches to Study the Immune System - Latin America & the Caribbean\nscRNA-seq CITE-seq scATAC-seq Immune receptors\n\nDates: 9-11 November, 2024\nVenue: Universidad CES, Medellín, Colombia\nActivity: Organizer and Helper\nGithub: Single Cell Genomic Approaches to Study the Immune System - Latin America & the Caribbean\nOrganizer: Wellcome Connecting Science\nLanguage: English\n\n\n\n2023 | CDSB 2023: Creando paquetes de R/Bioconductor para análisis transcriptómicos de célula única\nscRNA-seq\n\nFechas: 07-11 de agosto, 2023\nLocalización: Virtual event\nActividad: Instructora\nGithub: cdsb2023\nMaterial: Control de calidad en scRNA-seq\nOrganizado por: CDSB\nLenguaje: Español\n\n\n\n2023 | Análisis de datos de RNA-Seq\nbulk-RNA-seq\n\nFechas: 6 - 10 de noviembre, 2023\nLocalización: Virtual event\nActividad: Instructora\nGithub: RNASeq_Workshop_Nov2023\nOrganizado por: VieRnes de Bioinformática en el LIIGH\nLenguaje: Español\n\n\n\n\n\n Back to top",
     "crumbs": [
-      "Tutorials",
-      "Other Workshops"
+      "Talks and Tutorials",
+      "Workshop on Omics Data Analysis"
     ]
   },
   {
-    "objectID": "tutorials.html",
-    "href": "tutorials.html",
-    "title": "Teaching experience",
-    "section": "",
-    "text": "Introducción a R\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAnálisis de datos transcriptómicos\n\n\nKallisto + DESeq2 + topGO\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n\n\n\nFeb 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis de datos transcriptómicos\n\n\nSTAR + DESeq2 + g:Profiler2\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n2024\n\n\n\n\nFeb 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis de datos transcriptómicos\n\n\nSTAR + DESeq2 + g:Profiler2\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n2025\n\n\n\n\nFeb 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis de datos transcriptómicos\n\n\nSTAR o Kallisto + DESeq2 + g:Profiler2\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n2026\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nTutorial1\n\n\nejemplo1\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n2023\n\n\n\n\nFeb 21, 2023\n\n\n\n\n\n\nNo matching items\n Back to top",
-    "crumbs": [
-      "Tutorials",
-      "Teaching experience"
-    ]
-  },
-  {
-    "objectID": "teaching/2023_Rmarkdown.html",
-    "href": "teaching/2023_Rmarkdown.html",
-    "title": "Tutorial1",
-    "section": "",
-    "text": "21 al 24 de Febrero del 2023.\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "teaching/2026_RNAseq.html",
-    "href": "teaching/2026_RNAseq.html",
+    "objectID": "teaching/2024_RNAseq.html",
+    "href": "teaching/2024_RNAseq.html",
     "title": "Análisis de datos transcriptómicos",
     "section": "",
-    "text": "Fechas: 14, 16, 21, 23, 28, 30 de abril, 2026.\nGitHub: RNAseq_classFEB2026\nEspecie: Homo sapiens\n\nPipelines:\n\nAlineamiento y conteo con STAR + DESeq2 + g:Profiler2\nPseudoalineamiento y conteo con Kallisto + DESeq2 + g:Profiler2\nNexflow: rnaseq-nf"
+    "text": "Fechas: 27 al 29 de febrero, 1 marzo, 2024\nGitHub: RNAseq_classFEB2024\nEspecie: Mus musculus\nBioproject: PRJNA649971\nPipeline: Alineamiento y conteo con STAR + DESeq2 + g:Profiler2"
   },
   {
-    "objectID": "teaching/2026_RNAseq.html#información-general",
-    "href": "teaching/2026_RNAseq.html#información-general",
+    "objectID": "teaching/2024_RNAseq.html#información-general",
+    "href": "teaching/2024_RNAseq.html#información-general",
     "title": "Análisis de datos transcriptómicos",
     "section": "",
-    "text": "Fechas: 14, 16, 21, 23, 28, 30 de abril, 2026.\nGitHub: RNAseq_classFEB2026\nEspecie: Homo sapiens\n\nPipelines:\n\nAlineamiento y conteo con STAR + DESeq2 + g:Profiler2\nPseudoalineamiento y conteo con Kallisto + DESeq2 + g:Profiler2\nNexflow: rnaseq-nf"
+    "text": "Fechas: 27 al 29 de febrero, 1 marzo, 2024\nGitHub: RNAseq_classFEB2024\nEspecie: Mus musculus\nBioproject: PRJNA649971\nPipeline: Alineamiento y conteo con STAR + DESeq2 + g:Profiler2"
   },
   {
-    "objectID": "teaching/2026_RNAseq.html#plan-de-estudios",
-    "href": "teaching/2026_RNAseq.html#plan-de-estudios",
+    "objectID": "teaching/2024_RNAseq.html#plan-de-estudios",
+    "href": "teaching/2024_RNAseq.html#plan-de-estudios",
     "title": "Análisis de datos transcriptómicos",
     "section": "Plan de estudios",
-    "text": "Plan de estudios\n\nDia 1. Aspectos generales de RNA-Seq / Control de calidad de los datos | 14 abril | Presentación\nDia 2. Diversos pipelines para Alineamiento, ensamblaje y conteo de reads | 16 abril | Presentación\nDia 3. Importar datos en R, Normalización y Corrección por batch effect | 21 abril | Presentación\nDia 4. DEG con STAR y DESeq2 | 23 abril | Presentación\nDia 5. DEG con kallisto y DESeq2 | 28 febrero | Presentación\nDia 6. GSEA - Análisis funcional de los genes diferencialmente expresados | 30 febrero | Presentación"
+    "text": "Plan de estudios\n\nDia 1. Aspectos generales de RNA-Seq / Control de calidad de los datos | 27 febrero | Presentación\nDia 2. Diversos pipeline para Alineamiento, ensamblaje y conteo de reads | 28 febrero | Presentación\nDia 3. mportar datos en R, Normalización y Corrección por batch / DEG con DESeq2 | 29 febrero | Presentación\nDia 4. GSEA - Análisis funcional | 1 marzo | Presentación"
   },
   {
-    "objectID": "VieRnesBioinfo.html",
-    "href": "VieRnesBioinfo.html",
+    "objectID": "teaching/2023_RNAseq.html",
+    "href": "teaching/2023_RNAseq.html",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "",
+    "text": "Fechas: 21 al 24 de febrero, 2023.\nGitHub: RNAseq_classFEB2023\nEspecie: Arabidopsis thaliana\nPipeline: Pseudoalineamiento y conteo con Kallisto + DESeq2 + topGO"
+  },
+  {
+    "objectID": "teaching/2023_RNAseq.html#información-general",
+    "href": "teaching/2023_RNAseq.html#información-general",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "",
+    "text": "Fechas: 21 al 24 de febrero, 2023.\nGitHub: RNAseq_classFEB2023\nEspecie: Arabidopsis thaliana\nPipeline: Pseudoalineamiento y conteo con Kallisto + DESeq2 + topGO"
+  },
+  {
+    "objectID": "teaching/2023_RNAseq.html#plan-de-estudios",
+    "href": "teaching/2023_RNAseq.html#plan-de-estudios",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "Plan de estudios",
+    "text": "Plan de estudios\n\nDia 1. Aspectos generales de RNA-Seq | 21 febrero | Presentación | Práctica\nDia 2. Diversos pipeline para Alineamiento, ensamblaje y conteo | 22 febrero | Presentación | Práctica\nDia 3. Importar datos en R, Normalización y Corrección por batch / DEG con DESeq2 | 23 febrero | Presentación | Práctica\nDia 4. GSEA - Análisis funcional | 24 febrero | Presentación | Práctica"
+  },
+  {
+    "objectID": "teaching/2025_RNAseq.html",
+    "href": "teaching/2025_RNAseq.html",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "",
+    "text": "Fechas: 25 y 27 febrero, 4 y 6 marzo, 2025\nGitHub: RNAseq_classFEB2025\nEspecie: Homo sapiens\nPipeline: Alineamiento y conteo con STAR + DESeq2 + g:Profiler2"
+  },
+  {
+    "objectID": "teaching/2025_RNAseq.html#información-general",
+    "href": "teaching/2025_RNAseq.html#información-general",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "",
+    "text": "Fechas: 25 y 27 febrero, 4 y 6 marzo, 2025\nGitHub: RNAseq_classFEB2025\nEspecie: Homo sapiens\nPipeline: Alineamiento y conteo con STAR + DESeq2 + g:Profiler2"
+  },
+  {
+    "objectID": "teaching/2025_RNAseq.html#plan-de-estudios",
+    "href": "teaching/2025_RNAseq.html#plan-de-estudios",
+    "title": "Análisis de datos transcriptómicos",
+    "section": "Plan de estudios",
+    "text": "Plan de estudios\n\nDia 1. Aspectos generales de RNA-Seq | 25 febrero | Presentación\nDia 2. Diversos pipeline para Alineamiento, ensamblaje y conteo | 27 febrero | Presentación\nDia 3. Importar datos en R, Normalización y Corrección por batch / DEG con DESeq2 | 4 marzo | Presentación\nDia 4. GSEA - Análisis funcional | 6 marzo | Presentación"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "About me  Google Scholar\n2025 | Scientific Communication | Comunidades bioinformáticas sin fronteras | Biotecnología en Movimiento, Año 10. Número 40, cap 6 (31 marzo 2025) | Evelia Lorena Coss-Navarrete, Erika Viridiana Cruz Bonilla y Nelly Sélem Mojica | Link: https://biotecmov.ibt.unam.mx/numeros/40/6.html\n2024 | Scientific Abstracts | AB1113 ALLELE SPECIFIC GENE EXPRESSION DURING TOLERANCE INDUCTION ON DENDRITIC CELLS FROM MEXICAN WOMEN WITH SYSTEMIC LUPUS ERYTHEMATOSUS | A. L. Hernández-Ledesma, S. Salazar-Magaña, E. L. Coss-Navarrete, K. J. Nuñez-Reza, L. Tinajero Nieto, A. Peña-Ayala, E. Torres-Valdez, G. Felix Rodríguez, G. Frontana-Vázquez, F. Rosetti, S. L. Fernández-Valverde, M. Gutierrez Arcelus, D. Alpizar-Rodriguez, A. Medina-Rivera | https://ard.bmj.com/content/83/Suppl_1/1887\n2023 | Scientific Communication | Los Neutrofilos, chile del que pica o chile del que no pica? | El linfocito - Number 3 | Karr de Leon S, Coss-Navarrete EL, Brunck ME | Link: https://sociedadmexicanadeinmunologia.org/revista-edicion-3/\n2022 | Journal Article | Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana | Nature Scientific Reports | Corona-Gomez, J.A., Coss-Navarrete, E.L., et al. DOI: https://doi.org/10.1038/s41598-022-18254-0 | PMID: 35982083\n2022 | Educational | Plants & Python: A series of lessons in coding, plant biology, computation, and bioinformatics | The Plant Cell, Volume 34, Issue 7, July 2022, Page e1 | VanBuren R , Rougon-Cardoso A, Amezquita EJ, Coss-Navarrete EL, Espinosa-Jaime A, Gonzalez-Iturbe OA, Luckie-Duque AC, Mendoza-Galindo E, Pardo J, Rodriguez-Guerrero G, Rosiles-Loeza PY, Vasquez-Cruz M, Fernandez-Valverde SL, Hernandez-Hernandez T, Palande S, and Chitwood. DH. | DOI: https://doi.org/10.1093/plcell/koac187\n2020 | Book Chapter | Chapter 6 - Induction of plant resistance to biotic stress by priming with β-aminobutyric acid (BABA) and its effect on nitrogen-fixing nodule development | Evelia Lorena Coss-Navarrete, Armando Díaz-Valle, Raúl Alvarez-Venegas | DOI: https://doi.org/10.1016/B978-0-12-817892-8.00006-4\n2018 | Journal Article | Down-regulation of PvTRX1h increases nodule number and affects auxin, starch, and metabolic fingerprints in the common bean (Phaseolus vulgaris L.) | Plant Science | Barraza A, Coss-Navarrete EL, Vizuet-de-Rueda JC, Martinez-Aguilar K, Hernandez-Chavez JL, Ordaz-Ortiz JJ, Winkler R, Tiessen A, Alvarez-Venegas R. D | DOI: https://doi.org/10.1038/s41598-022-18254-0 | PMID: 30080634\n2017 | Journal Article | Partial characterization of the proteolytic properties of an enzymatic extract from “Aguama” Bromelia pinguin L. fruit grown in Mexico | Applied Biochemistry and Biotechnology | Jesús Martín Moreno-Hernández, Xitlalli Desideria Hernández-Mancillas, Evelia Lorena Coss Navarrete, Miguel Ángel Mazorra-Manzano, Idalia Osuna-Ruiz, Víctor Alfonso Rodríguez-Tirado, Jesús Aarón Salazar-Leyva | DOI: 10.1007/s12010-016-2319-x | PMID: 27830465\n2017 | Journal Article | CARACTERIZACION PARCIAL DE LA ACTIVIDAD COAGULANTE Y CASEINOLITICA DE LAS PROTEASAS DEL FRUTO DE AGUAMA (Bromelia pinguin L.) | Moreno-Henandez, J. M., Hernandez-Mancillas, X. D., Coss Navarrete, E. L., Banuelos-Perez, M. de J., Salazar-Leyva, J. A., Osuna-Ruiz, I., Rodriguez-Tirado, V. A., & Mazorra-Manzano, M. Angel | DOI: https://doi.org/10.18633/biotecnia.v19i2.380"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n2026 | Gene expression profiling of dendritic cell tolerance dysfunction in women with Systemic lupus erythematosus. Authors: Ana Laura Hernández-Ledesma, Evelia Lorena Coss-Navarrete, et al. | bioRxiv DOI: https://doi.org/10.64898/2025.12.21.695630.\n\nAbstract: Systemic lupus erythematosus (SLE) involves profound immune tolerance defects. In this study, we profiled dendritic cells from women with SLE and healthy donors, revealing interferon‑stimulated gene dominance, impaired IL‑10 signaling, and altered lipid metabolism. These findings highlight converging mechanisms that compromise dendritic cell tolerogenic capacity and contribute to disease pathogenesis.\nIn this study, I contributed to transcriptomic data analysis, statistical reporting, and figure design, integrating biological interpretation of dendritic cell dysfunction in systemic lupus erythematosus.\nData set: Regulatory Network Analysis of SLE-Associated Regulon Activity using SCENIC pipeline. Zenodo. https://doi.org/10.5281/zenodo.17419882\nData set: Analysis of gene expression profiles during tolerance induction in dendritic cells from women with Systemic Lupus Erythematosus. Zenodo. https://doi.org/10.5281/zenodo.17742206\nGitHub: SLE Transcriptomic analysis tolerogenic\n\nPending | Differential gene expression in Peripheral Blood Mononuclear Cells from individuals with Systemic Lupus Erythematosus| Sofía Guadalupe Salazar-Magaña, Ana Laura Hernández-Ledesma, Evelia Lorena Coss-Navarrete, Florencia Rosetti, Deshiré Alpízar-Rodríguez, Alejandra Medina-Rivera\nPending | Transcriptional heterogeneity of human peripheral blood neutrophils: a meta-analysis | Saul Karr-de-León, Evelia Lorena Coss-Navarrete, Jorge Andrés Cázares-Preciado, Emmanuel Martínez-Ledesma, Alejandra Medina-Rivera and Marion E.G. Brunck\nPending | Análisis de la menarca en mujeres mexicanas (lupus, jaguar, twins, parkinson)\nPending | Shiny app de lupus\n\nGitHub: LupusRGMX_ShinyApp"
+  },
+  {
+    "objectID": "publications.html#collaborations-and-acknowledgments-in-publications",
+    "href": "publications.html#collaborations-and-acknowledgments-in-publications",
+    "title": "Publications",
+    "section": "Collaborations and Acknowledgments in Publications",
+    "text": "Collaborations and Acknowledgments in Publications\nAcknowledged in the following publications for support and collaboration:\n\nAn educator framework for organizing Wikipedia editathons for computational biology- Bioinformatics (2025, Supplement 1, i12). Acknowledged for contributions to the project.\nEnhancing antioxidant and antimutagenic activity of the green seaweed Rhizoclonium riparium by bioassay-guided solvent partitioning - Journal of Applied Phycology (2019). Mentioned in acknowledgments for technical collaboration.\nAntioxidant, antimutagenic and antiproliferative activities in selected seaweed species from Sinaloa, Mexico - Pharmaceutical Biology (2016). Recognized in acknowledgments for research support."
+  },
+  {
+    "objectID": "projects/VieRnesBioinfo.html",
+    "href": "projects/VieRnesBioinfo.html",
     "title": "VieRnes de Bioinformática en el LIIGH",
     "section": "",
-    "text": "Parte 0 https://github.com/EveliaCoss/ViernesBioinfo2023 Parte 1 https://github.com/EveliaCoss/ViernesBioinfo2024 Parte 2 https://github.com/EveliaCoss/ViernesBioinfo2024_parte2 Parte 3 https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3 PArte4\n\n\n\n Back to top",
-    "crumbs": [
-      "Tutorials",
-      "VieRnes de Bioinformática en el LIIGH"
-    ]
+    "text": "Parte 0 https://github.com/EveliaCoss/ViernesBioinfo2023 Parte 1 https://github.com/EveliaCoss/ViernesBioinfo2024 Parte 2 https://github.com/EveliaCoss/ViernesBioinfo2024_parte2 Parte 3 https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3 PArte4\n\n\n\n Back to top"
   },
   {
-    "objectID": "reprohack.html",
-    "href": "reprohack.html",
-    "title": "Reprohack",
+    "objectID": "projects/Rladies.html",
+    "href": "projects/Rladies.html",
+    "title": "Rladies Morelia",
     "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Tutorials",
-      "Reprohack"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi, I´m Evelia Coss",
-    "section": "",
-    "text": "I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.\nI’m Evelia Coss, a postdoctoral researcher at LIIGH-UNAM. I specialize in transcriptomic and single-cell data analysis, bilingual scientific documentation, and reproducible resources for bioinformatics.\nFounding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @LIIGH-UNAM) | web page: https://viernesbioinformatica.github.io/ | Github: ViernesBioinfo2024 and ViernesBioinfo2023\n\n\n Back to top"
+    "text": "Back to top"
   },
   {
     "objectID": "publications/2017_02_Partical_characterization_milk/index.html",
@@ -163,105 +193,81 @@
     "text": "Back to top"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "projects/reprohack.html",
+    "href": "projects/reprohack.html",
+    "title": "Reprohack",
     "section": "",
-    "text": "About me  Google Scholar\n2025 | Scientific Communication | Comunidades bioinformáticas sin fronteras | Biotecnología en Movimiento, Año 10. Número 40, cap 6 (31 marzo 2025) | Evelia Lorena Coss-Navarrete, Erika Viridiana Cruz Bonilla y Nelly Sélem Mojica | Link: https://biotecmov.ibt.unam.mx/numeros/40/6.html\n2024 | Scientific Abstracts | AB1113 ALLELE SPECIFIC GENE EXPRESSION DURING TOLERANCE INDUCTION ON DENDRITIC CELLS FROM MEXICAN WOMEN WITH SYSTEMIC LUPUS ERYTHEMATOSUS | A. L. Hernández-Ledesma, S. Salazar-Magaña, E. L. Coss-Navarrete, K. J. Nuñez-Reza, L. Tinajero Nieto, A. Peña-Ayala, E. Torres-Valdez, G. Felix Rodríguez, G. Frontana-Vázquez, F. Rosetti, S. L. Fernández-Valverde, M. Gutierrez Arcelus, D. Alpizar-Rodriguez, A. Medina-Rivera | https://ard.bmj.com/content/83/Suppl_1/1887\n2023 | Scientific Communication | Los Neutrofilos, chile del que pica o chile del que no pica? | El linfocito - Number 3 | Karr de Leon S, Coss-Navarrete EL, Brunck ME | Link: https://sociedadmexicanadeinmunologia.org/revista-edicion-3/\n2022 | Journal Article | Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana | Nature Scientific Reports | Corona-Gomez, J.A., Coss-Navarrete, E.L., et al. DOI: https://doi.org/10.1038/s41598-022-18254-0 | PMID: 35982083\n2022 | Educational | Plants & Python: A series of lessons in coding, plant biology, computation, and bioinformatics | The Plant Cell, Volume 34, Issue 7, July 2022, Page e1 | VanBuren R , Rougon-Cardoso A, Amezquita EJ, Coss-Navarrete EL, Espinosa-Jaime A, Gonzalez-Iturbe OA, Luckie-Duque AC, Mendoza-Galindo E, Pardo J, Rodriguez-Guerrero G, Rosiles-Loeza PY, Vasquez-Cruz M, Fernandez-Valverde SL, Hernandez-Hernandez T, Palande S, and Chitwood. DH. | DOI: https://doi.org/10.1093/plcell/koac187\n2020 | Book Chapter | Chapter 6 - Induction of plant resistance to biotic stress by priming with β-aminobutyric acid (BABA) and its effect on nitrogen-fixing nodule development | Evelia Lorena Coss-Navarrete, Armando Díaz-Valle, Raúl Alvarez-Venegas | DOI: https://doi.org/10.1016/B978-0-12-817892-8.00006-4\n2018 | Journal Article | Down-regulation of PvTRX1h increases nodule number and affects auxin, starch, and metabolic fingerprints in the common bean (Phaseolus vulgaris L.) | Plant Science | Barraza A, Coss-Navarrete EL, Vizuet-de-Rueda JC, Martinez-Aguilar K, Hernandez-Chavez JL, Ordaz-Ortiz JJ, Winkler R, Tiessen A, Alvarez-Venegas R. D | DOI: https://doi.org/10.1038/s41598-022-18254-0 | PMID: 30080634\n2017 | Journal Article | Partial characterization of the proteolytic properties of an enzymatic extract from “Aguama” Bromelia pinguin L. fruit grown in Mexico | Applied Biochemistry and Biotechnology | Jesús Martín Moreno-Hernández, Xitlalli Desideria Hernández-Mancillas, Evelia Lorena Coss Navarrete, Miguel Ángel Mazorra-Manzano, Idalia Osuna-Ruiz, Víctor Alfonso Rodríguez-Tirado, Jesús Aarón Salazar-Leyva | DOI: 10.1007/s12010-016-2319-x | PMID: 27830465\n2017 | Journal Article | CARACTERIZACION PARCIAL DE LA ACTIVIDAD COAGULANTE Y CASEINOLITICA DE LAS PROTEASAS DEL FRUTO DE AGUAMA (Bromelia pinguin L.) | Moreno-Henandez, J. M., Hernandez-Mancillas, X. D., Coss Navarrete, E. L., Banuelos-Perez, M. de J., Salazar-Leyva, J. A., Osuna-Ruiz, I., Rodriguez-Tirado, V. A., & Mazorra-Manzano, M. Angel | DOI: https://doi.org/10.18633/biotecnia.v19i2.380"
+    "text": "Back to top"
   },
   {
-    "objectID": "publications.html#preprints",
-    "href": "publications.html#preprints",
-    "title": "Publications",
-    "section": "Preprints",
-    "text": "Preprints\n2026 | Gene expression profiling of dendritic cell tolerance dysfunction in women with Systemic lupus erythematosus. Authors: Ana Laura Hernández-Ledesma, Evelia Lorena Coss-Navarrete, et al. | bioRxiv DOI: https://doi.org/10.64898/2025.12.21.695630.\n\nAbstract: Systemic lupus erythematosus (SLE) involves profound immune tolerance defects. In this study, we profiled dendritic cells from women with SLE and healthy donors, revealing interferon‑stimulated gene dominance, impaired IL‑10 signaling, and altered lipid metabolism. These findings highlight converging mechanisms that compromise dendritic cell tolerogenic capacity and contribute to disease pathogenesis.\nIn this study, I contributed to transcriptomic data analysis, statistical reporting, and figure design, integrating biological interpretation of dendritic cell dysfunction in systemic lupus erythematosus.\nData set: Regulatory Network Analysis of SLE-Associated Regulon Activity using SCENIC pipeline. Zenodo. https://doi.org/10.5281/zenodo.17419882\nData set: Analysis of gene expression profiles during tolerance induction in dendritic cells from women with Systemic Lupus Erythematosus. Zenodo. https://doi.org/10.5281/zenodo.17742206\nGitHub: SLE Transcriptomic analysis tolerogenic\n\nPending | Differential gene expression in Peripheral Blood Mononuclear Cells from individuals with Systemic Lupus Erythematosus| Sofía Guadalupe Salazar-Magaña, Ana Laura Hernández-Ledesma, Evelia Lorena Coss-Navarrete, Florencia Rosetti, Deshiré Alpízar-Rodríguez, Alejandra Medina-Rivera\nPending | Transcriptional heterogeneity of human peripheral blood neutrophils: a meta-analysis | Saul Karr-de-León, Evelia Lorena Coss-Navarrete, Jorge Andrés Cázares-Preciado, Emmanuel Martínez-Ledesma, Alejandra Medina-Rivera and Marion E.G. Brunck\nPending | Análisis de la menarca en mujeres mexicanas (lupus, jaguar, twins, parkinson)\nPending | Shiny app de lupus\n\nGitHub: LupusRGMX_ShinyApp"
+    "objectID": "projects/RSGMexico.html",
+    "href": "projects/RSGMexico.html",
+    "title": "RSG México",
+    "section": "",
+    "text": "Back to top"
   },
   {
-    "objectID": "publications.html#collaborations-and-acknowledgments-in-publications",
-    "href": "publications.html#collaborations-and-acknowledgments-in-publications",
-    "title": "Publications",
-    "section": "Collaborations and Acknowledgments in Publications",
-    "text": "Collaborations and Acknowledgments in Publications\nAcknowledged in the following publications for support and collaboration:\n\nAn educator framework for organizing Wikipedia editathons for computational biology- Bioinformatics (2025, Supplement 1, i12). Acknowledged for contributions to the project.\nEnhancing antioxidant and antimutagenic activity of the green seaweed Rhizoclonium riparium by bioassay-guided solvent partitioning - Journal of Applied Phycology (2019). Mentioned in acknowledgments for technical collaboration.\nAntioxidant, antimutagenic and antiproliferative activities in selected seaweed species from Sinaloa, Mexico - Pharmaceutical Biology (2016). Recognized in acknowledgments for research support."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I´m Evelia Coss",
+    "section": "",
+    "text": "I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.\nI’m Evelia Coss, a postdoctoral researcher at LIIGH-UNAM. I specialize in transcriptomic and single-cell data analysis, bilingual scientific documentation, and reproducible resources for bioinformatics.\nFounding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @LIIGH-UNAM) | web page: https://viernesbioinformatica.github.io/ | Github: ViernesBioinfo2024 and ViernesBioinfo2023\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "English  Español\n\n\n\nBio\nI am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.\nFounding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @LIIGH-UNAM) | web page: https://viernesbioinformatica.github.io/| Github: ViernesBioinfo2024 and ViernesBioinfo2023\n\n\nEducation\n\nPostdoctoral Fellowship | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | February 2023 - Present\nThe Carpentries | Certified Instructor with The Carpentries | 2023 - Present\nPhD in Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. @Selene Fernandez-Valverde | August 2018 - January 2023 | Thesis\nM. Sc., Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. Raúl Alvárez y Dr. Stefan de Folter | Agosto 2016 - Julio 2018 | Thesis\nB.Sc.,Biotechnology Engineering | Universidad Politecnica de Sinaloa @UPSIN | 2012-2016\n\n\n\nExperience\nMember of the @JAGUAR Project, @R-ladies Morelia, @RIABIO, @LupusRGMX, @CDSB Mexico and @ISCB RSG-Mexico.\n\n\nRepository Contributions\nWebpage Plants&Python | Github Plants&Python | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso\n\n\n\n Back to top"
+    "text": "English  Español\n\n\n\nBio\nI am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.\nFounding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @LIIGH-UNAM) | web page: https://viernesbioinformatica.github.io/| Github: ViernesBioinfo2024 and ViernesBioinfo2023\n\n\nEducation\n\nPostdoctoral Fellowship | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | February 2023 - Present\nThe Carpentries | Certified Instructor with The Carpentries | 2023 - Present\nPhD in Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. @Selene Fernandez-Valverde | August 2018 - January 2023 | Thesis\nM. Sc., Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. Raúl Alvárez y Dr. Stefan de Folter | Agosto 2016 - Julio 2018 | Thesis\nB.Sc.,Biotechnology Engineering | Universidad Politecnica de Sinaloa @UPSIN | 2012-2016\n\n\n\nExperience\nMember of the @JAGUAR Project, @R-ladies Morelia, @RIABIO, @LupusRGMX, @CDSB Mexico and @ISCB RSG-Mexico.\n\n\nRepository Contributions\n\nWebpage Plants&Python | Github Plants&Python | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso\nWellcome Connecting Science - Single Cell Genomic Approaches to Study the Immune System - Latin America & the Caribbean: Github\n\n\n\nCollaborations and Acknowledgments in Publications\nAcknowledged in the following publications for support and collaboration:\n\nAn educator framework for organizing Wikipedia editathons for computational biology- Bioinformatics (2025, Supplement 1, i12). Acknowledged for contributions to the project.\nEnhancing antioxidant and antimutagenic activity of the green seaweed Rhizoclonium riparium by bioassay-guided solvent partitioning - Journal of Applied Phycology (2019). Mentioned in acknowledgments for technical collaboration.\nAntioxidant, antimutagenic and antiproliferative activities in selected seaweed species from Sinaloa, Mexico - Pharmaceutical Biology (2016). Recognized in acknowledgments for research support.\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "teaching/2025_RNAseq.html",
-    "href": "teaching/2025_RNAseq.html",
+    "objectID": "teaching/2026_RNAseq.html",
+    "href": "teaching/2026_RNAseq.html",
     "title": "Análisis de datos transcriptómicos",
     "section": "",
-    "text": "Fechas: 25 y 27 febrero, 4 y 6 marzo, 2025\nGitHub: RNAseq_classFEB2025\nEspecie: Homo sapiens\nPipeline: Alineamiento y conteo con STAR + DESeq2 + g:Profiler2"
+    "text": "Fechas: 14, 16, 21, 23, 28, 30 de abril, 2026.\nGitHub: RNAseq_classFEB2026\nEspecie: Homo sapiens\n\nPipelines:\n\nAlineamiento y conteo con STAR + DESeq2 + g:Profiler2\nPseudoalineamiento y conteo con Kallisto + DESeq2 + g:Profiler2\nNexflow: rnaseq-nf"
   },
   {
-    "objectID": "teaching/2025_RNAseq.html#información-general",
-    "href": "teaching/2025_RNAseq.html#información-general",
+    "objectID": "teaching/2026_RNAseq.html#información-general",
+    "href": "teaching/2026_RNAseq.html#información-general",
     "title": "Análisis de datos transcriptómicos",
     "section": "",
-    "text": "Fechas: 25 y 27 febrero, 4 y 6 marzo, 2025\nGitHub: RNAseq_classFEB2025\nEspecie: Homo sapiens\nPipeline: Alineamiento y conteo con STAR + DESeq2 + g:Profiler2"
+    "text": "Fechas: 14, 16, 21, 23, 28, 30 de abril, 2026.\nGitHub: RNAseq_classFEB2026\nEspecie: Homo sapiens\n\nPipelines:\n\nAlineamiento y conteo con STAR + DESeq2 + g:Profiler2\nPseudoalineamiento y conteo con Kallisto + DESeq2 + g:Profiler2\nNexflow: rnaseq-nf"
   },
   {
-    "objectID": "teaching/2025_RNAseq.html#plan-de-estudios",
-    "href": "teaching/2025_RNAseq.html#plan-de-estudios",
+    "objectID": "teaching/2026_RNAseq.html#plan-de-estudios",
+    "href": "teaching/2026_RNAseq.html#plan-de-estudios",
     "title": "Análisis de datos transcriptómicos",
     "section": "Plan de estudios",
-    "text": "Plan de estudios\n\nDia 1. Aspectos generales de RNA-Seq | 25 febrero | Presentación\nDia 2. Diversos pipeline para Alineamiento, ensamblaje y conteo | 27 febrero | Presentación\nDia 3. Importar datos en R, Normalización y Corrección por batch / DEG con DESeq2 | 4 marzo | Presentación\nDia 4. GSEA - Análisis funcional | 6 marzo | Presentación"
+    "text": "Plan de estudios\n\nDia 1. Aspectos generales de RNA-Seq / Control de calidad de los datos | 14 abril | Presentación\nDia 2. Diversos pipelines para Alineamiento, ensamblaje y conteo de reads | 16 abril | Presentación\nDia 3. Importar datos en R, Normalización y Corrección por batch effect | 21 abril | Presentación\nDia 4. DEG con STAR y DESeq2 | 23 abril | Presentación\nDia 5. DEG con kallisto y DESeq2 | 28 febrero | Presentación\nDia 6. GSEA - Análisis funcional de los genes diferencialmente expresados | 30 febrero | Presentación"
   },
   {
-    "objectID": "teaching/2023_RNAseq.html",
-    "href": "teaching/2023_RNAseq.html",
-    "title": "Análisis de datos transcriptómicos",
+    "objectID": "teaching/2023_Rmarkdown.html",
+    "href": "teaching/2023_Rmarkdown.html",
+    "title": "Tutorial1",
     "section": "",
-    "text": "Fechas: 21 al 24 de febrero, 2023.\nGitHub: RNAseq_classFEB2023\nEspecie: Arabidopsis thaliana\nPipeline: Pseudoalineamiento y conteo con Kallisto + DESeq2 + topGO"
+    "text": "21 al 24 de Febrero del 2023.\n\n\n\n Back to top"
   },
   {
-    "objectID": "teaching/2023_RNAseq.html#información-general",
-    "href": "teaching/2023_RNAseq.html#información-general",
-    "title": "Análisis de datos transcriptómicos",
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Teaching experience",
     "section": "",
-    "text": "Fechas: 21 al 24 de febrero, 2023.\nGitHub: RNAseq_classFEB2023\nEspecie: Arabidopsis thaliana\nPipeline: Pseudoalineamiento y conteo con Kallisto + DESeq2 + topGO"
-  },
-  {
-    "objectID": "teaching/2023_RNAseq.html#plan-de-estudios",
-    "href": "teaching/2023_RNAseq.html#plan-de-estudios",
-    "title": "Análisis de datos transcriptómicos",
-    "section": "Plan de estudios",
-    "text": "Plan de estudios\n\nDia 1. Aspectos generales de RNA-Seq | 21 febrero | Presentación | Práctica\nDia 2. Diversos pipeline para Alineamiento, ensamblaje y conteo | 22 febrero | Presentación | Práctica\nDia 3. Importar datos en R, Normalización y Corrección por batch / DEG con DESeq2 | 23 febrero | Presentación | Práctica\nDia 4. GSEA - Análisis funcional | 24 febrero | Presentación | Práctica"
-  },
-  {
-    "objectID": "teaching/2024_RNAseq.html",
-    "href": "teaching/2024_RNAseq.html",
-    "title": "Análisis de datos transcriptómicos",
-    "section": "",
-    "text": "Fechas: 27 al 29 de febrero, 1 marzo, 2024\nGitHub: RNAseq_classFEB2024\nEspecie: Mus musculus\nBioproject: PRJNA649971\nPipeline: Alineamiento y conteo con STAR + DESeq2 + g:Profiler2"
-  },
-  {
-    "objectID": "teaching/2024_RNAseq.html#información-general",
-    "href": "teaching/2024_RNAseq.html#información-general",
-    "title": "Análisis de datos transcriptómicos",
-    "section": "",
-    "text": "Fechas: 27 al 29 de febrero, 1 marzo, 2024\nGitHub: RNAseq_classFEB2024\nEspecie: Mus musculus\nBioproject: PRJNA649971\nPipeline: Alineamiento y conteo con STAR + DESeq2 + g:Profiler2"
-  },
-  {
-    "objectID": "teaching/2024_RNAseq.html#plan-de-estudios",
-    "href": "teaching/2024_RNAseq.html#plan-de-estudios",
-    "title": "Análisis de datos transcriptómicos",
-    "section": "Plan de estudios",
-    "text": "Plan de estudios\n\nDia 1. Aspectos generales de RNA-Seq / Control de calidad de los datos | 27 febrero | Presentación\nDia 2. Diversos pipeline para Alineamiento, ensamblaje y conteo de reads | 28 febrero | Presentación\nDia 3. mportar datos en R, Normalización y Corrección por batch / DEG con DESeq2 | 29 febrero | Presentación\nDia 4. GSEA - Análisis funcional | 1 marzo | Presentación"
-  },
-  {
-    "objectID": "tutorial-1.html",
-    "href": "tutorial-1.html",
-    "title": "Workshop on Omics Data Analysis",
-    "section": "",
-    "text": "2026 | Bioinformática aplicada al análisis de expresión génica diferencial\nscRNA-seq\n\nFechas: 11, 18 y 25 marzo, 8, 15 y 22 de abril, 2026\nLocalización: UNAM, campus Juriquilla, Querétaro\nActividad: Instructora\nGithub:\nOrganizado por: PROGRAMA DE POSGRADO, MAESTRÍA EN CIENCIAS (NEUROBIOLOGÍA)\nLenguaje: Español\n\n\n\n2026 | Minería Genómica Bacteriana: Identificación de genes de producción y resistencia antimicrobiana\nGenetic Mining\n\nFechas: 29-30 de abril, 2025\nLocalización: LIIGH-UNAM, Querétaro\nActividad: Instructora y ayudante\nGithub: 2025-04-29-MineriaGenomica\nOrganizado por: RSG-México\nLenguaje: Español\n\n\n\n2024 | Analyzing PBMCs Single Cell ATAC- Seq (scATAC-Seq) and Multiome data: Theory and practice\nscATAC-seq\n\nDate: 11 November, 2024\nVenue: Universidad CES, Medellín, Colombia\nActivity: Organizer and Instructor\nGithub: Tutorial scATACseq\nBook/Resource: Analyzing PBMCs Single Cell ATAC- Seq (scATAC-Seq) and Multiome data: Theory and practice\nOrganizer: Wellcome Connecting Science\nLanguage: English\n\n\n\n2024 | Single Cell Genomic Approaches to Study the Immune System - Latin America & the Caribbean\nscRNA-seq CITE-seq scATAC-seq Immune receptors\n\nDates: 9-11 November, 2024\nVenue: Universidad CES, Medellín, Colombia\nActivity: Organizer and Helper\nGithub: Single Cell Genomic Approaches to Study the Immune System - Latin America & the Caribbean\nOrganizer: Wellcome Connecting Science\nLanguage: English\n\n\n\n2023 | CDSB 2023: Creando paquetes de R/Bioconductor para análisis transcriptómicos de célula única\nscRNA-seq\n\nFechas: 07-11 de agosto, 2023\nLocalización: Virtual event\nActividad: Instructora\nGithub: cdsb2023\nMaterial: Control de calidad en scRNA-seq\nOrganizado por: CDSB\nLenguaje: Español\n\n\n\n2023 | Análisis de datos de RNA-Seq\nbulk-RNA-seq\n\nFechas: 6 - 10 de noviembre, 2023\nLocalización: Virtual event\nActividad: Instructora\nGithub: RNASeq_Workshop_Nov2023\nOrganizado por: VieRnes de Bioinformática en el LIIGH\nLenguaje: Español\n\n\n\n\n\n Back to top",
+    "text": "Introducción a R\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAnálisis de datos transcriptómicos\n\n\nKallisto + DESeq2 + topGO\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n\n\n\nFeb 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis de datos transcriptómicos\n\n\nSTAR + DESeq2 + g:Profiler2\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n2024\n\n\n\n\nFeb 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis de datos transcriptómicos\n\n\nSTAR + DESeq2 + g:Profiler2\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n2025\n\n\n\n\nFeb 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis de datos transcriptómicos\n\n\nSTAR o Kallisto + DESeq2 + g:Profiler2\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n2026\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nTutorial1\n\n\nejemplo1\n\n\n\nbioinformatics\n\nbulk-RNA-seq\n\n2023\n\n\n\n\nFeb 21, 2023\n\n\n\n\n\n\nNo matching items\n Back to top",
     "crumbs": [
-      "Tutorials",
-      "Workshop on Omics Data Analysis"
+      "Talks and Tutorials",
+      "Teaching experience"
+    ]
+  },
+  {
+    "objectID": "tutorial-2.html",
+    "href": "tutorial-2.html",
+    "title": "Other Workshops",
+    "section": "",
+    "text": "2024 | CDSB 2024: Desarrollo de paqueterías de R/Bioconductor\n\nBioinformatics Software Development\n\nFechas: 28-31 de octubre, 2024\nLocalización: Virtual event\nActividad: Ayudante\nGithub: cdsb2024\nMaterial: Desarrollo de paqueterías de R/Bioconductor\nOrganizado por: VieRnes de Bioinformática en el LIIGH\nLenguaje: Español\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Talks and Tutorials",
+      "Other Workshops"
     ]
   }
 ]

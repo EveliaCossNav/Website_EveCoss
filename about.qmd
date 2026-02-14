@@ -69,3 +69,13 @@ Member of the \@[JAGUAR Project](https://twitter.com/PJaguarLATAM), \@[R-ladies 
 -   Webpage [Plants&Python](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html) \| Github [Plants&Python](https://github.com/PlantsAndPython/PlantsAndPython) \| Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso
 
 -   **Wellcome Connecting Science** - Single Cell Genomic Approaches to Study the Immune System - Latin America & the Caribbean: [Github](https://github.com/WCSCourses/Single_Cell_Genomics_ImmuneSys_24)
+
+#### **Collaborations and Acknowledgments in Publications**
+
+Acknowledged in the following publications for support and collaboration:
+
+-   [An educator framework for organizing Wikipedia editathons for computational biology](https://academic.oup.com/bioinformatics/article/41/Supplement_1/i12/8199389)**-** *Bioinformatics* (2025, Supplement 1, i12). Acknowledged for contributions to the project.
+
+-   [Enhancing antioxidant and antimutagenic activity of the green seaweed *Rhizoclonium riparium* by bioassay-guided solvent partitioning](https://link.springer.com/article/10.1007/s10811-019-01886-7) **-** *Journal of Applied Phycology* (2019). Mentioned in acknowledgments for technical collaboration.
+
+-   [Antioxidant, antimutagenic and antiproliferative activities in selected seaweed species from Sinaloa, Mexico](https://www.tandfonline.com/doi/full/10.3109/13880209.2016.1150305) **-** *Pharmaceutical Biology* (2016). Recognized in acknowledgments for research support.

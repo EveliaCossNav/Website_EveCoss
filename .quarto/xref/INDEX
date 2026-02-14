@@ -97,5 +97,23 @@
   },
   "publications/2022_06_Transcriptome_arabidopsis/index.qmd": {
     "index.html": "e42281c9"
+  },
+  "projects/Rladies.qmd": {
+    "Rladies.html": "d9828219"
+  },
+  "projects/reprohack.qmd": {
+    "reprohack.html": "da4da752"
+  },
+  "projects/VieRnesBioinfo.qmd": {
+    "VieRnesBioinfo.html": "cc288aa6"
+  },
+  "projects/RSGMexico.qmd": {
+    "RSGMexico.html": "b464b800"
+  },
+  "projects.qmd": {
+    "projects.html": "10a906b8"
+  },
+  "videos.qmd": {
+    "videos.html": "ae8f720e"
   }
 }

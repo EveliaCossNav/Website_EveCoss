@@ -5,6 +5,7 @@ project:
 website:
   title: "Evelia Coss"
   back-to-top-navigation: true #boton Back to the top
+  
   navbar:
     search: true
     right:
@@ -12,25 +13,36 @@ website:
         href: index.qmd
       - about.qmd
       - publications/index.qmd #publications.qmd
-      - text: "Tutorials"
-        href: tutorials.qmd      
+      - text: "Talks and Tutorials"
+        href: tutorials.qmd
+      - text: "Videos"
+        href: videos.qmd      
+      - text: "Projects" 
+        href: projects.qmd      
+      - icon: github
+        href: https://github.com/EveliaCossNav/Website_EveCoss
 
   sidebar:
-    - title: "Tutorials"
+    - title: "Talks and Tutorials"
       style: "docked"
       background: light
       border: true
       contents:
         - tutorials.qmd
-        - VieRnesBioinfo.qmd
         - tutorial-1.qmd
         - tutorial-2.qmd
-        - reprohack.qmd
+
+    - title: "Projects"
+      style: "docked"
+      background: light
+      border: true
+      contents:
+        - projects.qmd  
 
   # Parte inferior de la pagina web
   page-footer: 
     border: false
-    left: "Published with [Quarto](https://quarto.org/docs/websites) v1.3.450"
+    left: "Published with [Quarto](https://quarto.org/docs/websites) v1.3.450, by Evelia Coss. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
     right: 
       - icon: github
         href: https://github.com/EveliaCoss/

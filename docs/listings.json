@@ -1,12 +1,15 @@
 [
   {
-    "listing": "/tutorials.html",
+    "listing": "/videos.html",
+    "items": []
+  },
+  {
+    "listing": "/projects.html",
     "items": [
-      "/teaching/2023_RNAseq.html",
-      "/teaching/2024_RNAseq.html",
-      "/teaching/2025_RNAseq.html",
-      "/teaching/2026_RNAseq.html",
-      "/teaching/2023_Rmarkdown.html"
+      "/projects/RSGMexico.html",
+      "/projects/reprohack.html",
+      "/projects/Rladies.html",
+      "/projects/VieRnesBioinfo.html"
     ]
   },
   {
@@ -22,6 +25,16 @@
       "/publications/2017_03_Down-regulation_PvTRX1h/index.html",
       "/publications/2017_02_Partical_characterization_milk/index.html",
       "/publications/2017_01_Partical_characterization_enzymes/index.html"
+    ]
+  },
+  {
+    "listing": "/tutorials.html",
+    "items": [
+      "/teaching/2023_RNAseq.html",
+      "/teaching/2024_RNAseq.html",
+      "/teaching/2025_RNAseq.html",
+      "/teaching/2026_RNAseq.html",
+      "/teaching/2023_Rmarkdown.html"
     ]
   }
 ]
