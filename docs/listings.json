@@ -4,15 +4,6 @@
     "items": []
   },
   {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/RSGMexico.html",
-      "/projects/reprohack.html",
-      "/projects/Rladies.html",
-      "/projects/VieRnesBioinfo.html"
-    ]
-  },
-  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/2025_10_tolerogenic/index.html",
@@ -25,6 +16,15 @@
       "/publications/2017_03_Down-regulation_PvTRX1h/index.html",
       "/publications/2017_02_Partical_characterization_milk/index.html",
       "/publications/2017_01_Partical_characterization_enzymes/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/RSGMexico.html",
+      "/projects/reprohack.html",
+      "/projects/Rladies.html",
+      "/projects/VieRnesBioinfo.html"
     ]
   },
   {

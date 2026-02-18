@@ -115,5 +115,8 @@
   },
   "videos.qmd": {
     "videos.html": "ae8f720e"
+  },
+  "publications_draft.qmd": {
+    "publications_draft.html": "ad1c2adf"
   }
 }
