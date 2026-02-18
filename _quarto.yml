@@ -60,7 +60,7 @@ execute:
   echo: true
   warning: false
   message: false
-  freeze: true
+  freeze: false
   
 filters:
   - reveal-logo # install quarto add royfrancis/quarto-reveal-logo
