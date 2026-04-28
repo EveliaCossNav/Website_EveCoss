@@ -51,7 +51,7 @@ format:
   html:
     theme:
       light: pulse
-      dark: darkly
+      # dark: darkly
     css: styles.css
     toc: true
 

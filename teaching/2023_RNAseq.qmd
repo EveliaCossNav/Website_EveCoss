@@ -4,7 +4,7 @@ subtitle: "Kallisto + DESeq2 + topGO"
 author: "Evelia Coss"
 description:  "Clases para los alumnos de Ciencias Genomicas de la UNAM dentro del programa Bioinformatica y estadistica 2"
 date: "2023-02-21"
-image: "img/EveliaCoss.jpg"
+image: "img/arabidopsis.png"
 categories: [bioinformatics, bulk-RNA-seq]
 format: html
 ---

@@ -7,16 +7,16 @@ categories: [scATAC-seq, bulk-RNA-seq, scRNA-seq, Genetic Mining]
 
 ### **2026** \| Bioinformática aplicada al análisis de expresión génica diferencial
 
-[scRNA-seq]{.badge .rounded-pill .bg-success}
+[bulk-RNA-seq]{.badge .rounded-pill .bg-primary} [scRNA-seq]{.badge .rounded-pill .bg-success} [spatial transcriptomic ]{.badge .rounded-pill .bg-danger}
 
 -   **Fechas:** 11, 18 y 25 marzo, 8, 15 y 22 de abril, 2026
 -   **Localización:** UNAM, campus Juriquilla, Querétaro
--   **Actividad:** Instructora
--   **Github:**
+-   **Actividad:** Instructora de scRNA-seq
+-   **Github:** [Bioinfo2026_INB_ENES](https://github.com/EveliaCoss/Bioinfo2026_INB_ENES)
 -   **Organizado por:** PROGRAMA DE POSGRADO, MAESTRÍA EN CIENCIAS (NEUROBIOLOGÍA)
 -   **Lenguaje:** Español
 
-### **2026** \| Minería Genómica Bacteriana: Identificación de genes de producción y resistencia antimicrobiana
+### **2025** \| Minería Genómica Bacteriana: Identificación de genes de producción y resistencia antimicrobiana
 
 [Genetic Mining]{.badge .rounded-pill .bg-danger}
 

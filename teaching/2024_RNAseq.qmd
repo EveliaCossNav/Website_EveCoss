@@ -4,7 +4,7 @@ subtitle: "STAR + DESeq2 + g:Profiler2"
 author: "Evelia Coss"
 description:  "Clases para los alumnos de Ciencias Genomicas de la UNAM dentro del programa Bioinformatica y estadistica 2"
 date: "2024-02-27"
-image: "img/EveliaCoss.jpg"
+image: "img/Mus_musculus.png"
 categories: [bioinformatics, bulk-RNA-seq, 2024]
 format: html
 ---

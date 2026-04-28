@@ -46,11 +46,11 @@ library(fontawesome)
 
 I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.
 
-Founding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at \@[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM)) \| web page: <https://viernesbioinformatica.github.io/>\| Github: [ViernesBioinfo2024](https://github.com/EveliaCoss/ViernesBioinfo2024) and [ViernesBioinfo2023](https://github.com/EveliaCoss/ViernesBioinfo2023)
+Founding member of **VieRnes de Bioinformatica en el LIIGH** (bioinformatics fridays at \@[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM)) \| web page: <https://viernesbioinformatica.github.io/>\| Github: [ViernesBioinfo2024](https://github.com/EveliaCoss/ViernesBioinfo2024) and [ViernesBioinfo2023](https://github.com/EveliaCoss/ViernesBioinfo2023)
 
 #### **Education**
 
--   **Postdoctoral Fellowship** \| \@[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) \| Dr. \@[Alejandra Medina-Rivera](https://twitter.com/AleMedinaRivera) \| February 2023 - Present
+-   **Postdoctoral Fellowship** \| \@[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) \| February 2023 - Present
 
 -   **The Carpentries** \| Certified Instructor with [The Carpentries](https://carpentries.org/) \| 2023 - Present
 
